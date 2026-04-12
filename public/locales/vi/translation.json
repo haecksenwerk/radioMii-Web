@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "results": "Kết quả tìm kiếm",
+    "uuid": "Nhà hàng gần Mii-Link",
+    "more": "Xem thêm",
+    "exit-url": "Đóng Mii-Link",
+    "empty-state": " ",
+    "favorites": "Yêu thích"
+  },
+  "searchbar": {
+    "name": "Tên",
+    "genre": "Thể loại",
+    "all": "Tất cả",
+    "hq": "HQ",
+    "select-country": "Tất cả các quốc gia",
+    "placeholder-name": "Tìm kiếm theo tên",
+    "placeholder-genre": "Tìm kiếm theo thể loại"
+  },
+  "menu": {
+    "layout": "Bố cục",
+    "standard-view": "Xem Tiêu Chuẩn",
+    "compact-view": "Xem Nhỏ Gọn",
+    "light-on": "Bật Đèn Lên",
+    "light-off": "Tắt Đèn Đi",
+    "restore-favs": "Khôi Phục Mục Yêu Thích",
+    "backup-favs": "Sao Lưu Yêu Thích",
+    "export-m3u": "Xuất Khẩu M3U Danh Sách Nhạc",
+    "export-xspf": "Xuất Khẩu XSPF Danh Sách Nhạc",
+    "tips": "Lời khuyên và Thủ thuật",
+    "about": "Về RadioMii",
+    "language": "Ngôn ngữ",
+    "open-menu-fav": "Yêu thích",
+    "open-menu-settings": "Cài đặt",
+    "back": "Quay lại",
+    "delete-favs": "Xóa Tất Cả Các Mục Yêu Thích",
+    "open-menu-plist": "Danh sách phát"
+  },
+  "settings": {
+    "quality": "HQ",
+    "tooltips": "Hiển thị tooltips",
+    "broken": "Ẩn trạm bị hỏng"
+  },
+  "tooltip": {
+    "toggle-options": "Hiển thị tùy chọn tìm kiếm",
+    "search-mode": "Chế độ tìm kiếm",
+    "sort-clicks": "Sắp xếp theo phát lại trong quá khứ 24h",
+    "sort-name": "Sắp xếp kết quả theo tên",
+    "sort-country": "Sắp xếp theo quốc gia",
+    "sort-bitrate": "Sắp xếp các luồng radio theo bitrate",
+    "select-country": "Chỉ có các trạm từ một quốc gia được lựa chọn",
+    "sort-votes": "Sắp xếp theo phiếu bầu",
+    "sort-language": "Sắp xếp kết quả tìm kiếm theo ngôn ngữ",
+    "sort-reverse": "Đảo ngược thứ tự sắp xếp",
+    "hq": "Chỉ hiển thị các luồng chất lượng cao"
+  },
+  "tips": {
+    "title": "Lời khuyên và Thủ thuật",
+    "body": {
+      "p6": "Một mã quốc gia như <1>/de</1> liệt kê tất cả các trạm đức",
+      "p9": "Nếu bạn bỏ lỡ đài phát thanh yêu thích của bạn, có thể thêm nó ở đây vào cơ sở dữ liệu:",
+      "p8": "<1>/clicks</1> tìm nạp hầu hết các trạm phát",
+      "p7": "<1>/votes</1> tìm nạp các trạm có Nhiều 'Thích'nhất",
+      "p4": "Số lần phát lại trong vòng 24h qua",
+      "p3": "Số Lượng 'Thích' một trạm có",
+      "p2": "/ <1>Không Gian</1>Chơi/Tạm Dừng | <1>+</1>Khối lượng lên | <1>-</1> Khối lượng xuống",
+      "p5": "Hãy thử các lệnh trong trường tìm kiếm:",
+      "p1": "Phím nóng:<1>C</1> Nhỏ Gọn/Tiêu Chuẩn Xem / | <1>L</1> ánh sáng on/off | <1>S</1> hiển thị/ẩn tùy chọn tìm kiếm "
+    }
+  },
+  "dropdown": {
+    "dialog-footer": "Chia sẻ các trạm yêu thích của bạn thông Qua Mii-Link",
+    "link-uuid": "Tạo Mii-Link",
+    "website": "Truy Cập Trang Web",
+    "move-card": "Di chuyển với ▶ ▶ ▲▼",
+    "remove-card": "Loại bỏ"
+  },
+  "empty-state": {
+    "body-results": "Không có kết quả cho ",
+    "body-favs": "Tìm kiếm các dòng yêu thích của bạn và nhấp vào"
+  },
+  "storage": {
+    "body": "Các tập tin trống hoặc nó không phải là một RadioMii *.tập tin rmf",
+    "title": "Tải Yêu Thích"
+  },
+  "del-favs": {
+    "yes": "Vâng",
+    "no": "Không",
+    "body": "Bạn có muốn xóa tất cả các trạm yêu thích?",
+    "title": "Xóa Mục Yêu Thích"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

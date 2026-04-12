@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Favoriten",
+    "results": "Suchergebnisse",
+    "uuid": "Station aus Mii-Link",
+    "more": "Zeige mehr",
+    "exit-url": "Mii-Link schließen"
+  },
+  "searchbar": {
+    "name": "Name",
+    "genre": "Genre",
+    "all": "Alle",
+    "hq": "HQ",
+    "select-country": "Alle Länder",
+    "placeholder-name": "Suche Sender Namen",
+    "placeholder-genre": "Suche Genres"
+  },
+  "menu": {
+    "layout": "Layout",
+    "standard-view": "Standard Ansicht",
+    "compact-view": "Kompakte Ansicht",
+    "light-on": "Licht einschalten",
+    "light-off": "Licht ausschalten",
+    "restore-favs": "Favoriten laden",
+    "backup-favs": "Favoriten sichern",
+    "delete-favs": "Alle Favoriten löschen",
+    "export-m3u": "M3U Playlist exportieren",
+    "export-xspf": "XSPF Playlist exportieren",
+    "tips": "Tipps und Tricks",
+    "about": "Über RadioMii",
+    "language": "Sprache",
+    "open-menu-fav": "Favoriten",
+    "open-menu-plist": "Playlists",
+    "open-menu-settings": "Einstellungen",
+    "back": "Zurück"
+  },
+  "settings": {
+    "quality": "HQ min. Bitrate",
+    "broken": "Defekte Stationen ausblenden",
+    "tooltips": "Zeige Tooltips"
+  },
+  "tooltip": {
+    "toggle-options": "Zeige Suchoptionen",
+    "search-mode": "Suchmodus",
+    "sort-votes": "Sortiere nach Bewertungen",
+    "sort-clicks": "Sortiere nach Clicks der letzten 24h",
+    "sort-name": "Sortiere nach Sendernamen",
+    "sort-country": "Sortiere nach Ländern",
+    "sort-language": "Sortiere nach Sprache",
+    "sort-bitrate": "Sortiere nach Bitrate",
+    "sort-reverse": "Sortierreihenfolge umkehren",
+    "hq": "Zeige nur Streams mit hoher Qualität",
+    "select-country": "Zeige nur Stationen aus bestimmten Land"
+  },
+  "dropdown": {
+    "move-card": "Mit ◀▶▲▼ bewegen",
+    "remove-card": "Entfernen",
+    "website": "Website besuchen",
+    "link-uuid": "Erstelle Mii-Link",
+    "dialog-footer": "Teile deinen Lieblingssender via Mii-Link"
+  },
+  "tips": {
+    "title": "Tipps und Tricks",
+    "body": {
+      "p1": "Hotkeys: <1>C</1> Compact/Standard View | <1>L</1> Licht an/aus | <1>S</1> Sucheinstellungen öffnen/schließen ",
+      "p2": "| <1>Leertaste</1> Wiedergabe/Pause | <1>+</1> Lautstärke erhöhen | <1>-</1> Lautstärke verringern",
+      "p3": "Anzahl 'Likes' die eine Station bekommen hat",
+      "p4": "Anzahl der Wiedergaben in den letzten 24h",
+      "p5": "Kommandos für das Suchfeld:",
+      "p6": "Der Ländercode <1>/de</1> holt alle deutschen Sender",
+      "p7": "<1>/votes</1> zeigt Stationen mit den meisten 'Likes'",
+      "p8": "<1>/clicks</1> zeigt die meist gespielten Stationen",
+      "p9": "Falls du deinen Lieblingssender nicht findest, kannst du ihn hier eintragen:"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Favoriten löschen",
+    "body": "Willst du alle Lieblingssender löschen?",
+    "no": "Nein",
+    "yes": "Ja"
+  },
+  "storage": {
+    "title": "Favoriten laden",
+    "body": "Die Datei ist leer oder es ist keine RadioMii *.rmf Datei"
+  },
+  "empty-state": {
+    "body-favs": "Suche deine Lieblingssender und clicke auf das",
+    "body-results": "Keine Ergebnisse für "
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Favorit",
+    "results": "Hasil pencarian",
+    "uuid": "Stasiun dari Mii-Link",
+    "more": "Tunjukkan lebih banyak",
+    "exit-url": "Tutup Mii-Link"
+  },
+  "searchbar": {
+    "genre": "Genre",
+    "name": "Nama",
+    "all": "Semua",
+    "hq": "HQ",
+    "select-country": "Semua negara",
+    "placeholder-name": "Cari berdasarkan nama",
+    "placeholder-genre": "Cari berdasarkan genre"
+  },
+  "menu": {
+    "open-menu-plist": "Daftar Putar",
+    "language": "Bahasa",
+    "about": "Tentang RadioMii",
+    "tips": "Tips dan Trik",
+    "standard-view": "Tampilan Standar",
+    "compact-view": "Tampilan Ringkas",
+    "light-on": "Nyalakan Lampu",
+    "light-off": "Matikan Lampu",
+    "restore-favs": "Pulihkan Favorit",
+    "backup-favs": "Cadangan Favorit",
+    "delete-favs": "Hapus semua Favorit",
+    "export-m3u": "Ekspor Daftar Putar M3U",
+    "export-xspf": "Ekspor Daftar Putar XSPF",
+    "open-menu-fav": "Favorit",
+    "back": "Kembali",
+    "open-menu-settings": "Pengaturan"
+  },
+  "tooltip": {
+    "sort-name": "Urutkan hasil menurut nama",
+    "sort-clicks": "Urutkan berdasarkan pemutaran dalam 24 jam terakhir",
+    "sort-votes": "Urutkan berdasarkan suara",
+    "search-mode": "Mode pencarian",
+    "toggle-options": "Tampilkan opsi pencarian",
+    "hq": "Hanya menampilkan aliran berkualitas tinggi",
+    "sort-reverse": "Urutan sortir terbalik",
+    "sort-bitrate": "Urutkan streaming radio berdasarkan bitrate",
+    "sort-language": "Urutkan hasil pencarian berdasarkan bahasa",
+    "sort-country": "Urutkan berdasarkan negara",
+    "select-country": "Hanya stasiun dari negara yang dipilih"
+  },
+  "settings": {
+    "tooltips": "Tampilkan tooltips",
+    "broken": "Sembunyikan stasiun yang rusak",
+    "quality": "HQ min. bitrate"
+  },
+  "del-favs": {
+    "yes": "Ya",
+    "no": "Tidak",
+    "body": "Apakah Anda ingin menghapus semua stasiun favorit?",
+    "title": "Hapus Favorit"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "tips": {
+    "body": {
+      "p8": "<1>/clicks</1> mengambil stasiun yang paling sering diputar",
+      "p7": "<1>/votes</1> mengambil stasiun dengan 'Suka' terbanyak",
+      "p6": "Kode negara seperti <1>/de</1> mencantumkan semua stasiun Jerman",
+      "p5": "Coba perintah di bidang pencarian:",
+      "p4": "Jumlah pemutaran dalam 24 jam terakhir",
+      "p3": "Jumlah 'Suka' yang didapat stasiun",
+      "p2": "| <1>Space</1> Putar/Jeda | <1>+</1> Volume naik | <1>-</1> Volume turun",
+      "p9": "Jika Anda melewatkan stasiun radio favorit Anda, dapat menambahkannya di sini ke database:",
+      "p1": "Tombol pintas: <1>C</1> Tampilan Ringkas/Standar | <1>L</1> Lampu hidup/mati | <1>S</1> menampilkan/menyembunyikan opsi pencarian "
+    },
+    "title": "Tips dan Trik"
+  },
+  "dropdown": {
+    "dialog-footer": "Bagikan stasiun favorit Anda melalui Mii-Link",
+    "link-uuid": "Buat Mii-Link",
+    "website": "Kunjungi Situs Web",
+    "remove-card": "Hapus",
+    "move-card": "Bergerak dengan ◀▶▲▼"
+  },
+  "empty-state": {
+    "body-results": "Tidak ada hasil untuk ",
+    "body-favs": "Cari stream favorit Anda dan klik tombol"
+  },
+  "storage": {
+    "body": "File kosong atau bukan file RadioMii *.rmf",
+    "title": "Muat Favorit"
+  }
+}

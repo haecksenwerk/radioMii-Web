@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Izlase",
+    "results": "Meklēšanas rezultāti",
+    "uuid": "Stacija no Mii-Link",
+    "more": "Rādīt vairāk",
+    "exit-url": "Aizvērt Mii-Link"
+  },
+  "searchbar": {
+    "name": "Nosaukums",
+    "genre": "Žanrs",
+    "all": "Visi",
+    "hq": "HQ",
+    "select-country": "Visas valstis",
+    "placeholder-name": "Meklēt pēc vārda",
+    "placeholder-genre": "Meklēt pēc žanra"
+  },
+  "menu": {
+    "layout": "Išdėstymas",
+    "standard-view": "Standarta skats",
+    "compact-view": "Kompakts skats",
+    "light-on": "Ieslēdziet gaismu",
+    "light-off": "Izslēdziet gaismu",
+    "restore-favs": "Atjaunot izlasi",
+    "backup-favs": "Dublējuma izlase",
+    "delete-favs": "Dzēst visus izlases",
+    "export-m3u": "Eksportēt M3U atskaņošanas sarakstu",
+    "tips": "Padomi un triki",
+    "about": "Par RadioMii",
+    "language": "Valoda",
+    "open-menu-fav": "Izlase",
+    "open-menu-plist": "Atskaņošanas saraksti",
+    "open-menu-settings": "Iestatījumi",
+    "back": "Atpakaļ",
+    "export-xspf": "Eksportēt XSPF atskaņošanas sarakstu"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate",
+    "broken": "Slēpt bojātas stacijas",
+    "tooltips": "Rādīt rīkkopas"
+  },
+  "tooltip": {
+    "search-mode": "Meklēšanas režīms",
+    "sort-votes": "Kārtot pēc balsīm",
+    "sort-clicks": "Kārtot pēc atskaņojumiem pēdējo 24 h laikā",
+    "sort-name": "Atlasīt rezultātus pēc nosaukuma",
+    "sort-language": "Atlasīt meklēšanas rezultātus pēc valodas",
+    "sort-reverse": "Apgrieztā šķirošanas secība",
+    "hq": "Rādīt tikai augstas kvalitātes plūsmas",
+    "toggle-options": "Rādīt meklēšanas opcijas",
+    "sort-country": "Atlasīt pēc valsts",
+    "sort-bitrate": "Kārtot radio plūsmas pēc bitrate",
+    "select-country": "Tikai stacijas no izvēlētās valsts"
+  },
+  "dropdown": {
+    "move-card": "Pārvietot ar ◀▶▲▼",
+    "remove-card": "Noņemt",
+    "website": "Apmeklējiet Tīmekļa vietne",
+    "link-uuid": "Izveidot Mii-Link",
+    "dialog-footer": "Kopīgojiet savas iecienītākās stacijas, izmantojot Mii-Link"
+  },
+  "tips": {
+    "title": "Padomi un triki",
+    "body": {
+      "p2": "| <1>Space</1> Atskaņošana/pauze | <1>+</1> Skaļuma palielināšana | <1>-</1> Skaļuma samazināšana",
+      "p3": "Stacijas iegūto \"Patīk\" skaits",
+      "p4": "Atskaņojumu skaits pēdējo 24 stundu laikā",
+      "p5": "Izmēģiniet komandas meklēšanas laukā:",
+      "p8": "<1>/clicks</1> iegūst visvairāk atskaņotās stacijas",
+      "p7": "<1>/votes</1> atlasa stacijas ar visvairāk 'Patīk'",
+      "p9": "Ja palaidāt garām savu iecienītāko radiostaciju, varat to pievienot datubāzei šeit:",
+      "p6": "Valsts kods, piemēram, <1>/de</1>, norāda visas Vācijas stacijas",
+      "p1": "Spiediena taustiņi: <1>C</1> kompakts/standarta skats | <1>L</1> gaismas ieslēgšana/izslēgšana | <1>S</1> parādīt/noslēpt meklēšanas iespējas "
+    }
+  },
+  "storage": {
+    "body": "Faili ir tukšs vai tas nav RadioMii *.rmf fails",
+    "title": "Ielādēt izlasi"
+  },
+  "del-favs": {
+    "yes": "Jā",
+    "no": "Nē",
+    "body": "Vai vēlaties dzēst visas iecienītākās stacijas?",
+    "title": "Izdzēst izlasi"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "empty-state": {
+    "body-results": "Nav rezultātu par ",
+    "body-favs": "Meklējiet savas iecienītākās plūsmas un noklikšķiniet uz"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Favoratoj",
+    "results": "Serĉi rezultoj",
+    "uuid": "Stacidomo De Mii-Link",
+    "more": "Montri pli",
+    "exit-url": "Fermi Mii-Link"
+  },
+  "searchbar": {
+    "name": "Nomo",
+    "genre": "Ĝenro",
+    "all": "Ĉiuj",
+    "hq": "HQ",
+    "select-country": "Ĉiuj landoj",
+    "placeholder-name": "Serĉi laŭ nomo",
+    "placeholder-genre": "Serĉo de ĝenro"
+  },
+  "menu": {
+    "standard-view": "Norma Vido",
+    "compact-view": "Kompakta Vido",
+    "light-on": "Ŝaltu La Lumon",
+    "light-off": "Malŝaltu La Lumon",
+    "restore-favs": "Restarigi Ŝatolistojn",
+    "backup-favs": "Sekurkopiaj Favoraĵoj",
+    "delete-favs": "Forigi Ĉiujn Favoratojn",
+    "export-m3u": "Eksporti M3U Ludliston",
+    "export-xspf": "Eksporti Xspf-Ludliston",
+    "tips": "Konsiletoj kaj Ruzoj",
+    "about": "Pri RadioMii",
+    "language": "Lingvo",
+    "open-menu-fav": "Favoratoj",
+    "open-menu-plist": "Ludlistoj",
+    "open-menu-settings": "Agordo",
+    "back": "Reen"
+  },
+  "settings": {
+    "broken": "Kaŝi rompitajn staciojn",
+    "tooltips": "Montri ŝpruchelpilojn",
+    "quality": "HQ min. bitrate"
+  },
+  "tooltip": {
+    "sort-clicks": "Ordigi laŭ playbacks ene pasinta 24h",
+    "sort-votes": "Ordigi laŭ voĉoj",
+    "search-mode": "Serĉ reĝimo",
+    "toggle-options": "Montri serĉopciojn",
+    "select-country": "Nur stacioj de elektita lando",
+    "sort-reverse": "Inversa ordiga ordo",
+    "sort-bitrate": "Ordigi radioriveretojn laŭ bitkvanto",
+    "sort-language": "Ordigi serĉrezultojn laŭ lingvo",
+    "sort-country": "Speco laŭ lando",
+    "sort-name": "Ordigi rezultojn laŭ nomo",
+    "hq": "Montri nur alta kvalito riveretoj"
+  },
+  "empty-state": {
+    "body-results": "Neniu rezulto por ",
+    "body-favs": "Serĉi viajn preferatajn riveretojn kaj klaki la"
+  },
+  "storage": {
+    "body": "La dosiero estas malplena aŭ ĝi ne estas RadioMii *.rmf-dosiero",
+    "title": "Ŝargi Favoratojn"
+  },
+  "del-favs": {
+    "yes": "Jes",
+    "no": "Ne",
+    "body": "Ĉu vi volas forigi ĉiujn preferatajn staciojn?",
+    "title": "Forigi Favoratojn"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "tips": {
+    "body": {
+      "p9": "Se vi perdiĝas vian preferatan radian stacion, vi povas aldoni ĝin ĉi tie al la datumaro:",
+      "p8": "<1>/clicks</1> kolektas plej luditajn staciojn",
+      "p7": "<1>/votes</1> venigas staciojn kun la Plej 'Ŝatas'",
+      "p6": "Landokodo kiel <1>/de</1> listigas ĉiujn germanajn staciojn",
+      "p5": "Provu komandojn en la searchfield:",
+      "p4": "La nombro de playbacks ene de la pasinteco 24h",
+      "p3": "La Nombro Da \"Ŝatas\" stacion ricevis",
+      "p2": "/ <1>Spaco</1> Teatraĵo | Paŭzo/<1>+</1> Volumo supren/<1>-</1> Volumo malsupren",
+      "p1": "Hotkeys: <1>C</1> Kompakta / Norma Vido | <1>L</1> Lumo sur / ekstere | <1>S</1> montri / kaŝi serĉo opcioj "
+    },
+    "title": "Konsiletoj kaj Ruzoj"
+  },
+  "dropdown": {
+    "dialog-footer": "Dividi viajn preferatajn staciojn tra Mii-Link",
+    "link-uuid": "Krei Mii-Link",
+    "website": "Vizitu Ttt-Ejon",
+    "remove-card": "Forigi",
+    "move-card": "Movi per ◀▶▲▼"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "favorites": "Suosikit",
+    "results": "Haku tulokset",
+    "uuid": "Asema alkaen Mii-Link",
+    "more": "Näytä lisää",
+    "empty-state": " ",
+    "exit-url": "Sulje Mii-Link"
+  },
+  "searchbar": {
+    "name": "Nimi",
+    "genre": "Genre",
+    "all": "Kaikki",
+    "hq": "HQ",
+    "select-country": "Kaikki maat",
+    "placeholder-name": "Etsi nimellä",
+    "placeholder-genre": "Etsi genren mukaan"
+  },
+  "menu": {
+    "layout": "Asettelu",
+    "standard-view": "Normaali näkymä",
+    "light-on": "Kytke valo päälle",
+    "light-off": "Kytke valo pois päältä",
+    "restore-favs": "Palauta suosikit",
+    "backup-favs": "Varmuuskopioi suosikit",
+    "delete-favs": "Poista kaikki suosikit",
+    "export-m3u": "Vie M3U-soittolista",
+    "about": "Tietoja RadioMii",
+    "language": "Kieli",
+    "open-menu-fav": "Suosikit",
+    "open-menu-plist": "Soittolistat",
+    "open-menu-settings": "Asetukset",
+    "back": "Takaisin",
+    "tips": "Vinkkejä ja niksejä",
+    "compact-view": "Kompakti näkymä",
+    "export-xspf": "Vie XSPF-soittolista"
+  },
+  "tooltip": {
+    "sort-clicks": "Lajittele toistojen mukaan viimeisen 24 tunnin aikana",
+    "sort-name": "Lajittele tulokset nimen mukaan",
+    "sort-language": "Lajittele hakutulokset kielen mukaan",
+    "sort-bitrate": "Lajittele radiovirrat bittinopeuden mukaan",
+    "sort-reverse": "Käänteinen lajittelujärjestys",
+    "select-country": "Vain valitun maan asemat",
+    "toggle-options": "Näytä hakuvaihtoehdot",
+    "search-mode": "Haku-tila",
+    "sort-votes": "Järjestä äänten mukaan",
+    "sort-country": "Lajittele maan mukaan",
+    "hq": "Näytä vain korkealaatuiset streamit"
+  },
+  "dropdown": {
+    "move-card": "Liikuta ◀▶▲▼▼",
+    "remove-card": "Poista",
+    "website": "Vieraile sivustolla",
+    "link-uuid": "Luo Mii-Link",
+    "dialog-footer": "Jaa suosikkiasemasi Mii-Link"
+  },
+  "tips": {
+    "title": "Vinkkejä ja niksejä",
+    "body": {
+      "p3": "Aseman saamien \"Tykkäysten\" määrä",
+      "p4": "Viimeisten 24 tunnin aikana tapahtuneiden toistojen määrä",
+      "p5": "Kokeile komentoja hakukentässä:",
+      "p9": "Jos kaipaat suosikkiradioasemaasi, voit lisätä sen tietokantaan:",
+      "p8": "<1>/clicks</1> hakee soitetuimmat asemat",
+      "p7": "<1>/votes</1> hakee asemat, joilla on eniten 'Tykkäyksiä'",
+      "p6": "Maakoodi kuten <1>/de</1> listaa kaikki saksalaiset asemat",
+      "p1": "Pikanäppäimet: <1>C</1> Kompakti/vakionäkymä | <1>L</1> Valo päälle/pois | <1>S</1> näytä/piilota hakuvaihtoehdot. ",
+      "p2": "| <1>Avaruus</1> Toisto/tauko | <1>+</1> Äänenvoimakkuus ylöspäin | <1>-</1> Äänenvoimakkuus alaspäin"
+    }
+  },
+  "settings": {
+    "quality": "HQ min. bittinopeus",
+    "broken": "Piilota rikkinäiset asemat",
+    "tooltips": "Näytä työkaluvihjeet"
+  },
+  "empty-state": {
+    "body-results": "Ei tuloksia varten ",
+    "body-favs": "Etsi suosikkivirrat ja napsauta"
+  },
+  "storage": {
+    "body": "Tiedosto on tyhjä tai se ei ole RadioMii *.rmf-tiedosto",
+    "title": "Lataa suosikkeja"
+  },
+  "del-favs": {
+    "yes": "Kyllä",
+    "no": "Ei",
+    "body": "Haluatko poistaa kaikki suosikkiasemat?",
+    "title": "Poista suosikit"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

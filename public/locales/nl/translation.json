@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "uuid": "Station van Mii-Link",
+    "exit-url": "Sluit Mii-link",
+    "more": "Toon meer",
+    "empty-state": " ",
+    "favorites": "Favorieten",
+    "results": "Zoek resultaten"
+  },
+  "searchbar": {
+    "genre": "Genre",
+    "all": "Alle",
+    "hq": "HQ",
+    "placeholder-genre": "Zoeken op genre",
+    "name": "Naam",
+    "select-country": "Alle landen",
+    "placeholder-name": "Zoeken op naam"
+  },
+  "menu": {
+    "layout": "Indeling",
+    "restore-favs": "Herstel favorieten",
+    "backup-favs": "Back-up favorieten",
+    "delete-favs": "Verwijder alle favorieten",
+    "export-m3u": "Export M3U-afspeellijst",
+    "export-xspf": "Exporteer XSPF afspeellijst",
+    "compact-view": "Compacte weergave",
+    "tips": "Tips en Tricks",
+    "about": "Over RadioMii",
+    "language": "Taal",
+    "back": "Terug",
+    "open-menu-settings": "Instellingen",
+    "open-menu-plist": "Afspeellijsten",
+    "open-menu-fav": "Favorieten",
+    "light-on": "Doe het licht aan",
+    "light-off": "Doe het licht uit",
+    "standard-view": "Standaard weergave"
+  },
+  "storage": {
+    "title": "Laad favorieten",
+    "body": "Het bestand is leeg of het is geen RadioMii *.rmf bestand"
+  },
+  "del-favs": {
+    "body": "Wilt u alle favoriete zenders verwijderen?",
+    "title": "Verwijderen favorieten",
+    "no": "Geen",
+    "yes": "Ja"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "tips": {
+    "body": {
+      "p8": "<1>/clicks</1> haalt meest gespeelde stations op",
+      "p7": "<1>/votes</1> haalt stations met de meeste 'Likes' op",
+      "p6": "Een landcode als <1>/de</1> toont alle Duitse stations",
+      "p1": "Sneltoetsen: <1>C</1> Compact/Standaardweergave | <1>L</1> Licht aan/uit | <1>S</1> zoekopties tonen/verbergen ",
+      "p3": "Het aantal 'Likes' dat een station kreeg",
+      "p4": "Het aantal afspeelbeurten in de afgelopen 24 uur",
+      "p5": "Probeer commando's in het zoekveld:",
+      "p9": "Als u uw favoriete radiostation mist, kunt u het hier toevoegen aan de database:",
+      "p2": "| Afspelen/Pauze <1>+</1> Volume omhoog <1>-</1> Volume omlaag"
+    },
+    "title": "Tips en trucs"
+  },
+  "settings": {
+    "broken": "Verberg gebroken stations",
+    "tooltips": "Toon tooltips",
+    "quality": "HQ-min. bitrate"
+  },
+  "tooltip": {
+    "search-mode": "Zoek modus",
+    "sort-votes": "Sorteren op stemmen",
+    "sort-clicks": "Sorteren op afspelen binnen de afgelopen 24 uur",
+    "sort-name": "Sorteer resultaten op naam",
+    "sort-language": "Sorteer zoekresultaten op taal",
+    "sort-bitrate": "Sorteren van radiostreams op bitrate",
+    "select-country": "Alleen stations uit een gekozen land",
+    "sort-reverse": "Omgekeerde sorteer volgorde",
+    "toggle-options": "Zoekopties tonen",
+    "sort-country": "Sorteer op land",
+    "hq": "Toon alleen streams van hoge kwaliteit"
+  },
+  "dropdown": {
+    "link-uuid": "Maak Mii-Link",
+    "website": "Bezoek website",
+    "remove-card": "Verwijder",
+    "move-card": "Bewegen met ◀▶▲▼",
+    "dialog-footer": "Deel uw favoriete stations via Mii-Link"
+  },
+  "empty-state": {
+    "body-favs": "Zoek uw favoriete streams en klik op de",
+    "body-results": "Geen resultaten voor "
+  }
+}

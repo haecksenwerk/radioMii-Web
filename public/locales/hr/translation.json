@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Favoriti",
+    "results": "Rezultati pretraživanja",
+    "uuid": "Stanica iz Mii-Link",
+    "more": "Prikaži više",
+    "exit-url": "Zatvori Mii-Link"
+  },
+  "searchbar": {
+    "all": "Sve",
+    "name": "Ime",
+    "genre": "Žanr",
+    "hq": "HQ",
+    "select-country": "Sve zemlje",
+    "placeholder-name": "Pretraživanje po imenu",
+    "placeholder-genre": "Pretraživanje po žanru"
+  },
+  "menu": {
+    "layout": "Raspored",
+    "compact-view": "Kompaktni prikaz",
+    "light-on": "Upalite svjetla",
+    "light-off": "Ugasi svjetla",
+    "restore-favs": "Vrati favorite",
+    "backup-favs": "Izradite sigurnosnu kopiju favorita",
+    "delete-favs": "Izbriši sve favorite",
+    "export-m3u": "Izvoz M3U Popis za reprodukciju",
+    "export-xspf": "Izvoz XSPF Popis za reprodukciju",
+    "tips": "Savjeti i trikovi",
+    "about": "O RadioMii",
+    "language": "Jezik",
+    "open-menu-fav": "Favoriti",
+    "open-menu-plist": "Popisi za reprodukciju",
+    "open-menu-settings": "Postavke",
+    "back": "Natrag",
+    "standard-view": "Standardni prikaz"
+  },
+  "settings": {
+    "broken": "Sakrij slomljene stanice",
+    "tooltips": "Prikaži opise alata",
+    "quality": "HQ minimalna brzina prijenosa"
+  },
+  "tooltip": {
+    "toggle-options": "Prikaži opcije pretraživanja",
+    "search-mode": "Način pretraživanja",
+    "sort-votes": "Poredaj po glasovima",
+    "select-country": "Samo stanice iz odabrane zemlje",
+    "hq": "Prikaži samo visokokvalitetne tokove",
+    "sort-reverse": "Obrnuti redoslijed sortiranja",
+    "sort-language": "Sortiranje rezultata pretraživanja prema jeziku",
+    "sort-country": "Poredaj po zemljama",
+    "sort-name": "Sortiranje rezultata po naslovu",
+    "sort-clicks": "Poredaj po reprodukcijama u posljednja 24 sata",
+    "sort-bitrate": "Sortiranje radio streamova prema brzini prijenosa"
+  },
+  "dropdown": {
+    "link-uuid": "Stvoriti Mii-Link",
+    "remove-card": "Izbrisati",
+    "move-card": "Premjestiti s ◀▶▲▼",
+    "dialog-footer": "Podijelite svoje omiljene stanice putem Mii-Link",
+    "website": "Posjetite internetsku stranicu"
+  },
+  "empty-state": {
+    "body-results": "Nema rezultata za ",
+    "body-favs": "Pronađite svoje omiljene streamove i dodirnite"
+  },
+  "storage": {
+    "body": "Datoteka je prazna ili nije datoteka *.rmf",
+    "title": "Učitaj favorite"
+  },
+  "del-favs": {
+    "yes": "Da",
+    "no": "Ne",
+    "body": "Želite li izbrisati sve svoje omiljene stanice?",
+    "title": "Izbriši favorite"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "tips": {
+    "body": {
+      "p9": "Ako ste propustili svoju omiljenu radio stanicu, možete je dodati ovdje u bazu podataka:",
+      "p8": "<1>/clicks</1> odabire većinu stanica koje se mogu reproducirati",
+      "p7": "<1>/votes</1> odabire stanice s najviše \"lajkova\"",
+      "p6": "Pozivni broj zemlje tipa <1>/de</1> sadrži popis svih njemačkih postaja",
+      "p5": "Pokušajte upisati naredbe u okvir za pretraživanje:",
+      "p4": "Broj reprodukcija u posljednja 24 sata",
+      "p3": "Broj \"lajkova\" koje je stanica prikupila",
+      "p1": "Prečaci: <1>C</1> kompaktni / standardni prikaz / <1>L</1> uključivanje / isključivanje pozadinskog osvjetljenja | <1>S</1> Prikaži / Sakrij opcije pretraživanja ",
+      "p2": "/ <1>razmak</1> Reprodukcija/pauza | <1>+</1> pojačavanje glasnoće | <1>-</1> smanjivanje glasnoće"
+    },
+    "title": "Savjeti i trikovi"
+  }
+}

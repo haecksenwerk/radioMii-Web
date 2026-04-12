@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Oblíbené položky",
+    "results": "Výsledky hledání",
+    "more": "Zobrazit více",
+    "exit-url": "Zavřít Mii-Link",
+    "uuid": "Stanice Mii-Link"
+  },
+  "searchbar": {
+    "name": "Název",
+    "genre": "Žánr",
+    "all": "Všechny",
+    "hq": "HQ",
+    "select-country": "Všechny země",
+    "placeholder-name": "Vyhledávání podle jména",
+    "placeholder-genre": "Vyhledávání podle žánru"
+  },
+  "menu": {
+    "layout": "Rozvržení",
+    "standard-view": "Standardní zobrazení",
+    "compact-view": "Kompaktní zobrazení",
+    "light-on": "Kompaktní displej",
+    "restore-favs": "Obnovit oblíbené",
+    "backup-favs": "Zálohování oblíbených",
+    "export-m3u": "Exportovat seznamy skladeb M3U",
+    "tips": "Tipy a triky",
+    "language": "Jazyk",
+    "open-menu-fav": "Oblíbené",
+    "back": "Zpět",
+    "open-menu-settings": "Nastavení",
+    "open-menu-plist": "Seznamy skladeb",
+    "export-xspf": "Export seznamu skladeb XSPF",
+    "delete-favs": "Smazat všechny oblíbené položky",
+    "light-off": "Vypněte světlo",
+    "about": "O RadioMii"
+  },
+  "tooltip": {
+    "select-country": "Pouze stanice z vybrané země",
+    "hq": "Zobrazení pouze vysoce kvalitních streamů",
+    "sort-bitrate": "Řazení rádiových streamů podle datového toku",
+    "sort-language": "Seřadit výsledky hledání podle jazyka",
+    "sort-country": "Seřadit podle země",
+    "sort-name": "Seřadit výsledky podle názvu",
+    "sort-votes": "Seřadit podle hlasů",
+    "search-mode": "Režim vyhledávání",
+    "sort-reverse": "Obrácené pořadí třídění",
+    "sort-clicks": "Řazení podle přehrání za posledních 24h",
+    "toggle-options": "Zobrazit možnosti hledání"
+  },
+  "tips": {
+    "body": {
+      "p2": "| <1>Mezerník</1> Přehrávání/Pauza | <1>+</1> Zvýšení hlasitosti | <1>-</1> Snížení hlasitosti",
+      "p3": "Počet \"To se mi líbí\", které stanice získala",
+      "p8": "<1>/clicks</1> načte nejhranější stanice",
+      "p7": "<1>/votes</1> vyhledá stanice s největším počtem 'Líbí se mi'",
+      "p6": "Kód země jako <1>/de</1> zobrazuje všechny německé stanice",
+      "p5": "Zkuste příkazy ve vyhledávacím poli:",
+      "p4": "Počet přehrání za posledních 24h",
+      "p9": "Pokud vám chybí vaše oblíbená rozhlasová stanice, můžete ji přidat do databáze zde:",
+      "p1": "Klávesové zkratky: <1>C</1> kompaktní/standardní zobrazení | <1>L</1> zapnutí/vypnutí světla | <1>S</1> zobrazení/skrytí možností vyhledávání "
+    },
+    "title": "Tipy a triky"
+  },
+  "dropdown": {
+    "dialog-footer": "Sdílení oblíbených stanic pomocí Mii-Link",
+    "link-uuid": "Vytvořit Mii-Link",
+    "website": "Navštivte webové stránky",
+    "remove-card": "Odstranit",
+    "move-card": "Pohyb s ◀▶▲▼"
+  },
+  "settings": {
+    "tooltips": "Zobrazit popisky",
+    "broken": "Skrýt nefunkční stanice",
+    "quality": "HQ min. datový tok"
+  },
+  "storage": {
+    "body": "Soubor je prázdný nebo se nejedná o soubor RadioMii *.rmf",
+    "title": "Načíst oblíbené"
+  },
+  "empty-state": {
+    "body-favs": "Vyhledejte své oblíbené streamy a klikněte na",
+    "body-results": "Žádné výsledky pro "
+  },
+  "del-favs": {
+    "yes": "Ano",
+    "body": "Chcete odstranit všechny oblíbené stanice?",
+    "title": "Odstranění oblíbených položek",
+    "no": "Ne"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

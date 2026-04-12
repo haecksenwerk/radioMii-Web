@@ -1,0 +1,94 @@
+{
+  "menu": {
+    "layout": "Layout",
+    "compact-view": "Ikuspegi Trinkoa",
+    "light-on": "Piztu Argia",
+    "light-off": "Itzali Argia",
+    "restore-favs": "Leheneratu Gogokoak",
+    "backup-favs": "Gogokoen Babeskopia",
+    "delete-favs": "Ezabatu Gogoko guztiak",
+    "standard-view": "Ikuspegi Estandarra",
+    "back": "Atzera",
+    "export-m3u": "Esportatu M3U Erreprodukzio-Zerrenda",
+    "open-menu-settings": "Ezarpenak",
+    "open-menu-plist": "Erreprodukzio-zerrendak",
+    "open-menu-fav": "Gogokoak",
+    "language": "Hizkuntza",
+    "about": "Honi buruz RadioMii",
+    "tips": "Aholkuak eta Trikimailuak",
+    "export-xspf": "Esportatu XSPF Erreprodukzio-Zerrenda"
+  },
+  "searchbar": {
+    "placeholder-genre": "Bilatu generoaren arabera",
+    "placeholder-name": "Bilatu izenaren arabera",
+    "select-country": "Herrialde guztiak",
+    "all": "Denak",
+    "name": "Izena",
+    "genre": "Generoa",
+    "hq": "HQ"
+  },
+  "grid": {
+    "favorites": "Gogokoak",
+    "results": "Bilaketaren emaitzak",
+    "uuid": "Geltokia Mii-Link",
+    "more": "Erakutsi gehiago",
+    "exit-url": "Itxi Mii-Link",
+    "empty-state": " "
+  },
+  "dropdown": {
+    "link-uuid": "Sortu Mii-Link",
+    "website": "Webgunea Bisitatu",
+    "remove-card": "Kendu",
+    "move-card": "Mugitu honekin ◀▶▲▼",
+    "dialog-footer": "Partekatu zure Gogoko Geltokiak Mii-Link bidez"
+  },
+  "tooltip": {
+    "select-country": "Aukeratutako herrialde bateko geltokiak",
+    "hq": "Erakutsi kalitate handiko korronteak soilik",
+    "sort-reverse": "Alderantzizko ordena",
+    "sort-bitrate": "Ordenatu irrati-korronteak bit-tasaren arabera",
+    "sort-language": "Ordenatu bilaketaren emaitzak hizkuntzaren arabera",
+    "sort-country": "Ordenatu herrialdearen arabera",
+    "sort-name": "Ordenatu emaitzak izenaren arabera",
+    "sort-clicks": "Ordenatu erreprodukzioen arabera 24 orduko epean",
+    "sort-votes": "Ordenatu botoen arabera",
+    "search-mode": "Bilaketa modua",
+    "toggle-options": "Erakutsi bilaketaren aukerak"
+  },
+  "settings": {
+    "tooltips": "Erakutsi argibideak",
+    "broken": "Ezkutatu hautsitako estazioak",
+    "quality": "MIN. bit-emaria"
+  },
+  "empty-state": {
+    "body-results": "Ez dago emaitzarik honentzat ",
+    "body-favs": "Bilatu zure gogoko korronteak eta egin klik"
+  },
+  "storage": {
+    "body": "Fitxategia hutsik dago edo ez da radio Mil *.rmf fitxategia",
+    "title": "Kargatu Gogokoak"
+  },
+  "del-favs": {
+    "yes": "Bai",
+    "no": "Ez",
+    "body": "Estazio gogokoenak ezabatu nahi dituzu?",
+    "title": "Ezabatu Gogokoak"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "tips": {
+    "body": {
+      "p9": "Zure irrati gogokoena galdu baduzu, hemen gehitu dezakezu datu-basean:",
+      "p8": "<1>/clicks</1> erreproduzitutako estazio gehienak eskuratzen ditu",
+      "p6": "<1>/de</1> bezalako herrialde kode batek alemaniako geltoki guztiak zerrendatzen ditu",
+      "p5": "Saiatu komandoak bilaketa-eremuan:",
+      "p4": "Iraganeko erreprodukzio kopurua 24h",
+      "p1": "Laster-teklak: <1>C</1> Ikuspegi Trinkoa/Estandarra | <1>L</1> Argia piztuta | itzalita| <1>S</1> show/hide search options ",
+      "p7": "<1>/votes</1> gehien gustatzen zaizkien estazioak eskuratzen ditu",
+      "p3": "Geltoki baten 'Atsegin dut' zenbakia lortu da",
+      "p2": "| <1>Zuriunea</1> Erreproduzitu/Pausarazi / <1>+</1> bolumena igo | <1>-</1> bolumena jaitsi"
+    },
+    "title": "Aholkuak eta Trikimailuak"
+  }
+}

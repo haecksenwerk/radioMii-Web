@@ -1,0 +1,94 @@
+{
+  "tips": {
+    "body": {
+      "p4": "Počet prehrávaní za posledných 24 h",
+      "p3": "Počet \"Páči sa mi to\", ktoré získala stanica",
+      "p5": "Vyskúšajte príkazy vo vyhľadávacom poli:",
+      "p9": "Ak vám chýba vaša obľúbená rozhlasová stanica, môžete ju pridať do databázy:",
+      "p6": "Kód krajiny ako <1>/de</1> zobrazuje všetky nemecké stanice",
+      "p8": "<1>/clicks</1> načíta najhranejšie stanice",
+      "p7": "<1>/votes</1> vyhľadá stanice s najväčším počtom 'Páči sa mi to'",
+      "p1": "Klávesové skratky: <1>C</1> Kompaktné/štandardné zobrazenie | <1>L</1> Zapnutie/vypnutie svetla | <1>S</1> Zobraziť/skryť možnosti vyhľadávania ",
+      "p2": "| <1>Medzerník</1> Prehrávanie/Pauza | <1>+</1> Zvýšenie hlasitosti | <1>-</1> Zníženie hlasitosti"
+    },
+    "title": "Tipy a triky"
+  },
+  "menu": {
+    "layout": "Rozloženie",
+    "backup-favs": "Zálohovanie obľúbených",
+    "delete-favs": "Odstránenie všetkých obľúbených položiek",
+    "export-m3u": "Exportovať zoznam skladieb M3U",
+    "export-xspf": "Exportovať zoznam skladieb XSPF",
+    "tips": "Tipy a triky",
+    "language": "Jazyk",
+    "about": "O RadioMii",
+    "light-off": "Vypnite svetlo",
+    "light-on": "Zapnite svetlo",
+    "compact-view": "Kompaktný pohľad",
+    "standard-view": "Štandardné zobrazenie",
+    "open-menu-fav": "Obľúbené",
+    "open-menu-settings": "Nastavenia",
+    "back": "Späť",
+    "open-menu-plist": "Zoznamy skladieb",
+    "restore-favs": "Obnovenie obľúbených"
+  },
+  "searchbar": {
+    "placeholder-genre": "Vyhľadávanie podľa žánru",
+    "name": "Názov",
+    "all": "Všetky",
+    "genre": "Žáner",
+    "hq": "HQ",
+    "select-country": "Všetky krajiny",
+    "placeholder-name": "Vyhľadávanie podľa mena"
+  },
+  "dropdown": {
+    "link-uuid": "Vytvoriť Mii-Link",
+    "website": "Navštíviť webovú lokalitu",
+    "remove-card": "Odstrániť",
+    "move-card": "Pohyb s ◀▶▲▼",
+    "dialog-footer": "Zdieľanie obľúbených staníc cez Mii-Link"
+  },
+  "tooltip": {
+    "select-country": "Iba stanice z vybranej krajiny",
+    "hq": "Zobrazovať len vysokokvalitné prúdy",
+    "sort-bitrate": "Triedenie rozhlasových prúdov podľa dátového toku",
+    "sort-language": "Zoradiť výsledky vyhľadávania podľa jazyka",
+    "sort-country": "Zoradiť podľa krajiny",
+    "sort-name": "Zoradiť výsledky podľa názvu",
+    "sort-votes": "Zoradiť podľa hlasov",
+    "toggle-options": "Zobraziť možnosti vyhľadávania",
+    "search-mode": "Režim vyhľadávania",
+    "sort-reverse": "Obrátené poradie triedenia",
+    "sort-clicks": "Zoradiť podľa prehrávania za posledných 24 h"
+  },
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Obľúbené",
+    "results": "Výsledok vyhľadávania",
+    "uuid": "Stanica z Mii-Link",
+    "more": "Zobraziť viac",
+    "exit-url": "Zatvoriť Mii-Link"
+  },
+  "settings": {
+    "tooltips": "Zobrazenie panelov s nástrojmi",
+    "broken": "Skryť nefunkčné stanice",
+    "quality": "Min. dátový tok HQ"
+  },
+  "storage": {
+    "body": "Súbor je prázdny alebo to nie je súbor RadioMii *.rmf",
+    "title": "Načítanie obľúbených"
+  },
+  "del-favs": {
+    "body": "Chcete odstrániť všetky obľúbené stanice?",
+    "yes": "Áno",
+    "no": "Nie",
+    "title": "Odstránenie obľúbených"
+  },
+  "empty-state": {
+    "body-results": "Žiadne výsledky pre ",
+    "body-favs": "Vyhľadajte svoje obľúbené prúdy a kliknite na"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "grid": {
+    "results": "Iziphumo zokukhangela",
+    "exit-url": "Vala i-Mii-Link",
+    "empty-state": " ",
+    "favorites": "Ezizithandayo",
+    "uuid": "Isitishi esivela kwi-Mii-Link",
+    "more": "Bonisa ngakumbi"
+  },
+  "searchbar": {
+    "placeholder-name": "Phendla ngegama",
+    "name": "Igama",
+    "genre": "Uhlobo",
+    "all": "Konke",
+    "hq": "HQ",
+    "select-country": "Onke amazwe",
+    "placeholder-genre": "Khangela ngokohlobo"
+  },
+  "menu": {
+    "back": "Emva",
+    "standard-view": "Imbonakalo eqhelekileyo",
+    "compact-view": "Umbono obambeneyo",
+    "light-on": "Layita Isibane",
+    "light-off": "Cima isibane",
+    "restore-favs": "Buyisela Ezithandwayo",
+    "backup-favs": "Gcina iiFavorites",
+    "delete-favs": "Cima zonke iiFavorites",
+    "export-m3u": "Thumela ngaphandle M3U Uluhlu lokudlala",
+    "export-xspf": "Thumela ngaphandle XSPF Uluhlu lokudlala",
+    "tips": "Iingcebiso kunye namaqhinga",
+    "about": "Malunga RadioMii",
+    "language": "Ulwimi",
+    "open-menu-fav": "Ezizithandayo",
+    "open-menu-plist": "Uluhlu lokudlala",
+    "open-menu-settings": "Iisetingi"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate",
+    "tooltips": "Bonisa iingcebiso zesixhobo",
+    "broken": "Fihla izitishi ezaphukileyo"
+  },
+  "tooltip": {
+    "toggle-options": "Bonisa ukhetho lokukhangela",
+    "search-mode": "Imowudi yokukhangela",
+    "sort-votes": "Hlela ngeevoti",
+    "sort-clicks": "Hlela ngokudlala emva kwe-24h",
+    "sort-country": "Hlela ngokwelizwe",
+    "sort-language": "Hlela iziphumo zophendlo ngolwimi",
+    "sort-reverse": "Uhlenga-hlengiso lolandelelwano",
+    "hq": "Bonisa kuphela imisinga yomgangatho ophezulu+",
+    "select-country": "Kuphela izikhululo ezivela kwilizwe elikhethiweyo",
+    "sort-name": "Hlela iziphumo ngegama",
+    "sort-bitrate": "Hlela irediyo nge-bitrate"
+  },
+  "dropdown": {
+    "move-card": "Hambisa nge-◀▶▲▼",
+    "remove-card": "Susa",
+    "link-uuid": "Yenza i-Mii-Link",
+    "dialog-footer": "Yabelana ngezikhululo zakho ozithandayo nge-Mii-Link",
+    "website": "Ndwendwela iWebhusayithi"
+  },
+  "tips": {
+    "title": "Iingcebiso kunye namaqhinga",
+    "body": {
+      "p2": "| <1>Isithuba</1> Dlala/Misa | <1>+</1> Unyuse umthamo | <1>-</1> Ivolyum phantsi",
+      "p3": "Inani lee'Zithandwa' sisikhululo esifumeneyo",
+      "p4": "Inani lokudlala kwakhona kwiiyure ezingama-24 ezidlulileyo",
+      "p5": "Zama imiyalelo kwindawo yokukhangela:",
+      "p7": "<1>/votes</1> ilanda izikhululo ezinobona 'Uthanda'",
+      "p8": "<1>/clicks</1> ilanda uninzi lwezikhululo ezidlalwayo",
+      "p1": "Hotkeys: <1>C</1> Compact/Standard View | <1>L</1> Ukukhanya kuvuliwe/cima | <1>S</1> bonisa/fihla ukhetho lokukhangela ",
+      "p6": "Ikhowudi yelizwe efana <1>/de</1> idwelisa zonke izikhululo zamajamani",
+      "p9": "Ukuba uyasikhumbula isitishi sakho sikanomathotholo osithandayo, ungasidibanisa apha kuvimba weenkcukacha:"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Cima iiFavorites",
+    "body": "Ngaba uyafuna ukucima zonke izikhululo ozithandayo?",
+    "no": "Hayi",
+    "yes": "Ewe"
+  },
+  "storage": {
+    "title": "Layisha iiFavorites",
+    "body": "Ifayile ayinanto okanye ayiyo RadioMii *.rmf ifayile"
+  },
+  "empty-state": {
+    "body-favs": "Khangela imijelo oyithandayo kwaye ucofe i",
+    "body-results": "Akukho ziphumo ze "
+  }
+}

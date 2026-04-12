@@ -1,0 +1,93 @@
+{
+  "dropdown": {
+    "dialog-footer": "Del dine yndlingsstationer via Mii-Link",
+    "move-card": "Flyt med ◀▶▲▼",
+    "remove-card": "Fjern",
+    "website": "Besøg webstedet",
+    "link-uuid": "Opret Mii-Link"
+  },
+  "tips": {
+    "title": "Tips og tricks",
+    "body": {
+      "p1": "Genvejstaster: <1>C</1> kompakt/standardvisning | <1>L</1> lys tændt/slukket | <1>S</1> vis/skjul søgemuligheder ",
+      "p2": "| <1>Space</1> Afspil/pause | <1>+</1> Lydstyrke op | <1>-</1> Lydstyrke ned",
+      "p3": "Antallet af \"Synes godt om\" for en station",
+      "p4": "Antallet af afspilninger inden for de seneste 24 timer",
+      "p5": "Prøv kommandoer i søgefeltet:",
+      "p6": "En landekode som <1>/de</1> viser alle tyske stationer",
+      "p7": "<1>/votes</1> henter de stationer med flest \"Synes godt om",
+      "p8": "<1>/clicks</1> henter de mest afspillede stationer",
+      "p9": "Hvis du savner din yndlingsradiostation, kan du tilføje den her til databasen:"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Slet favoritter",
+    "body": "Ønsker du at slette alle favoritstationer?",
+    "no": "Nej",
+    "yes": "Ja"
+  },
+  "storage": {
+    "title": "Indlæs favoritter",
+    "body": "Filen er tom, eller det er ikke en RadioMii *.rmf-fil"
+  },
+  "empty-state": {
+    "body-favs": "Søg dine foretrukne streams, og klik på",
+    "body-results": "Ingen resultater for "
+  },
+  "menu": {
+    "standard-view": "Standard visning",
+    "compact-view": "Kompakt visning",
+    "light-on": "Tænd for lyset",
+    "restore-favs": "Gendan favoritter",
+    "about": "Om RadioMii",
+    "open-menu-fav": "Favoritter",
+    "light-off": "Sluk for lyset",
+    "backup-favs": "Backup-favoritter",
+    "delete-favs": "Slet alle favoritter",
+    "export-m3u": "Eksporter M3U-spilleliste",
+    "export-xspf": "Eksporter XSPF-spilleliste",
+    "tips": "Tips og tricks",
+    "language": "Sprog",
+    "open-menu-plist": "Spillelister",
+    "open-menu-settings": "Indstillinger",
+    "back": "Tilbage"
+  },
+  "searchbar": {
+    "placeholder-name": "Søg efter navn",
+    "placeholder-genre": "Søg efter genre",
+    "name": "Navn",
+    "genre": "Genre",
+    "all": "Alle",
+    "hq": "HQ",
+    "select-country": "Alle lande"
+  },
+  "settings": {
+    "broken": "Skjul ødelagte stationer",
+    "quality": "HQ min. bitrate",
+    "tooltips": "Vis værktøjstip"
+  },
+  "tooltip": {
+    "search-mode": "Søgemåde",
+    "sort-clicks": "Sorter efter afspilninger inden for de seneste 24 timer",
+    "hq": "Vis kun streams af høj kvalitet",
+    "toggle-options": "Vis søgemuligheder",
+    "sort-votes": "Sorter efter stemmer",
+    "sort-name": "Sortere resultater efter navn",
+    "sort-country": "Sorter efter land",
+    "sort-language": "Sortere søgeresultater efter sprog",
+    "sort-bitrate": "Sortere radiostreams efter bitrate",
+    "sort-reverse": "Omvendt sortering",
+    "select-country": "Kun stationer fra et udvalgt land"
+  },
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Favoritter",
+    "results": "Søges resultater",
+    "uuid": "Station fra Mii-Link",
+    "more": "Vis mere",
+    "exit-url": "Luk Mii-Link"
+  }
+}

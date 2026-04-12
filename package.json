@@ -1,0 +1,78 @@
+{
+  "name": "radio-mii",
+  "version": "0.1.0",
+  "description": "A client for playing internet radio streams",
+  "main": "public/electron.js",
+  "homepage": "./",
+  "private": true,
+  "author": "Andrea Schäfer",
+  "devDependencies": {
+    "electron": "^19.0.8",
+    "electron-builder": "^23.1.0"
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "browser-fs-access": "^0.35.0",
+    "concurrently": "^8.2.1",
+    "country-flag-icons": "^1.5.7",
+    "electron-is-dev": "^2.0.0",
+    "i18next": "^23.5.1",
+    "i18next-browser-languagedetector": "^7.1.0",
+    "i18next-http-backend": "^2.2.2",
+    "qrcode.react": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.2.2",
+    "react-icons": "^4.11.0",
+    "react-scripts": "5.0.1",
+    "styled-components": "^6.3.11",
+    "uuid": "^11.1.0",
+    "wait-on": "^7.0.1",
+    "web-vitals": "^3.5.0",
+    "zustand": "^5.0.7"
+  },
+  "scripts": {
+    "git-info": "node src/utils/gitInfo.js",
+    "start": "npm run git-info && react-scripts start",
+    "build": "npm run git-info && react-scripts build",
+    "test": "npm run git-info && react-scripts test",
+    "eject": "react-scripts eject",
+    "electron-dev": "concurrently \"BROWSER=none npm start\" \"wait-on http://localhost:3000 && electron .\"",
+    "electron-package": "./node_modules/.bin/electron-builder -c.extraMetadata.main=build/electron.js",
+    "preelectron-package": "npm run build"
+  },
+  "build": {
+    "appId": "com.radiomii.web",
+    "productName": "radioMii",
+    "copyright": "Copyright © 2022 ${author}",
+    "mac": {
+      "icon": "./public/app.icns",
+      "category": "public.app-category.music"
+    },
+    "files": [
+      "build/**/*",
+      "node_modules/**/*"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    }
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

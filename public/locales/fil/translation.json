@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "results": "Mga Resulta ng Paghahanap",
+    "uuid": "Istasyon mula sa Mii-Link",
+    "more": "Magpakita ng higit pa",
+    "favorites": "Mga paborito",
+    "exit-url": "Isara ang Mii-Link"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate",
+    "tooltips": "Ipakita ang mga tooltip",
+    "broken": "Itago ang mga sirang istasyon"
+  },
+  "menu": {
+    "layout": "Layout",
+    "back": "Bumalik",
+    "open-menu-settings": "Mga setting",
+    "open-menu-plist": "Mga playlist",
+    "open-menu-fav": "Mga paborito",
+    "language": "Wika",
+    "about": "Tungkol sa radioMii",
+    "standard-view": "Standard View",
+    "light-on": "Buksan ang ilaw",
+    "light-off": "Patayin ang ilaw",
+    "restore-favs": "Ibalik ang Mga Paborito",
+    "backup-favs": "Mga Paborito sa Pag-backup",
+    "delete-favs": "Tanggalin ang lahat ng Mga Paborito",
+    "export-m3u": "I-export ang M3U Playlist",
+    "tips": "Mga Tip at Trick",
+    "compact-view": "Compact na Pananaw",
+    "export-xspf": "I-export ang XSPF Playlist"
+  },
+  "searchbar": {
+    "name": "Pangalan",
+    "all": "Lahat",
+    "hq": "HQ",
+    "select-country": "Lahat ng bansa",
+    "placeholder-name": "Maghanap ayon sa pangalan",
+    "placeholder-genre": "Maghanap ayon sa genre",
+    "genre": "Ang genre"
+  },
+  "del-favs": {
+    "yes": "Oo",
+    "no": "Hindi",
+    "body": "Gusto mo bang tanggalin ang lahat ng paboritong istasyon?",
+    "title": "Tanggalin ang Mga Paborito"
+  },
+  "empty-state": {
+    "body-results": "Walang mga resulta para sa ",
+    "body-favs": "Hanapin ang iyong mga paboritong stream at i-click ang"
+  },
+  "storage": {
+    "body": "Walang laman ang file o hindi ito isang radioMii *.rmf file",
+    "title": "Mag-load ng Mga Paborito"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "tips": {
+    "body": {
+      "p9": "Kung miss mo ang iyong paboritong istasyon ng radyo, maaari mo itong idagdag dito sa database:",
+      "p8": "Kinukuha ng <1>/clicks</1> ang pinakamaraming nilalaro na istasyon",
+      "p7": "<1>/votes</1> kinukuha ang mga istasyon na may pinakamaraming 'Like'",
+      "p6": "Ang isang country code tulad ng <1>/de</1> ay naglilista ng lahat ng mga istasyon ng german",
+      "p5": "Subukan ang mga utos sa field ng paghahanap:",
+      "p4": "Ang bilang ng mga pag-playback sa loob ng nakalipas na 24h",
+      "p3": "Ang dami ng 'Likes' na nakuha ng isang istasyon",
+      "p2": "| <1>Space</1> I-play/I-pause | <1>+</1> Tumaas ang volume | <1>-</1> Hinaan ang volume",
+      "p1": "Mga Hotkey: <1>C</1> Compact/Standard View | <1>L</1> Naka-on/off ang ilaw | <1>S</1> ipakita/itago ang mga opsyon sa paghahanap "
+    },
+    "title": "Mga Tip at Trick"
+  },
+  "dropdown": {
+    "dialog-footer": "Ibahagi ang iyong mga paboritong istasyon sa pamamagitan ng Mii-Link",
+    "link-uuid": "Lumikha ng Mii-Link",
+    "website": "Bisitahin ang Website",
+    "remove-card": "Alisin",
+    "move-card": "Ilipat gamit ang ◀▶▲▼"
+  },
+  "tooltip": {
+    "select-country": "Tanging mga istasyon mula sa isang napiling bansa",
+    "hq": "Ipakita lamang ang mga stream na may mataas na kalidad",
+    "sort-reverse": "Baliktarin ang pagkakasunud-sunod",
+    "sort-bitrate": "Pagbukud-bukurin ang mga stream ng radyo ayon sa bitrate",
+    "sort-language": "Pagbukud-bukurin ang mga resulta ng paghahanap ayon sa wika",
+    "sort-country": "Pagbukud-bukurin ayon sa bansa",
+    "sort-name": "Pagbukud-bukurin ang mga resulta ayon sa pangalan",
+    "sort-clicks": "Pagbukud-bukurin ayon sa mga pag-playback sa loob ng nakalipas na 24h",
+    "sort-votes": "Pagbukud-bukurin ayon sa mga boto",
+    "search-mode": "Mode ng paghahanap",
+    "toggle-options": "Ipakita ang mga opsyon sa paghahanap"
+  }
+}

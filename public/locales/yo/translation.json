@@ -1,0 +1,93 @@
+{
+  "menu": {
+    "delete-favs": "Pa gbogbo awọn ayanfẹ rẹ",
+    "backup-favs": "Awọn ayanfẹ Afẹyinti",
+    "restore-favs": "Mu awọn ayanfẹ pada",
+    "light-off": "Pa Imọlẹ naa",
+    "light-on": "Tan Imọlẹ Tan",
+    "compact-view": "Iwapọ Wiwo",
+    "standard-view": "Standard Wiwo",
+    "language": "Ede",
+    "about": "Nipa RadioMii",
+    "tips": "Italolobo ati ẹtan",
+    "export-m3u": "Akojọ orin M3U okeere",
+    "back": "Pada",
+    "open-menu-settings": "Ètò",
+    "open-menu-plist": "Awọn akojọ orin",
+    "open-menu-fav": "Awọn ayanfẹ",
+    "export-xspf": "Akojọ orin XSPF okeere"
+  },
+  "searchbar": {
+    "placeholder-genre": "Ṣewadii nipasẹ oriṣi",
+    "placeholder-name": "Ṣewadii pẹlu orukọ",
+    "select-country": "Gbogbo awọn orilẹ-ede",
+    "hq": "HQ",
+    "all": "Gbogbo",
+    "genre": "Oriṣi",
+    "name": "Oruko"
+  },
+  "grid": {
+    "exit-url": "Pa Mii-Link",
+    "more": "Ṣe afihan diẹ sii",
+    "uuid": "Ibusọ lati Mii-Link",
+    "results": "Awọn abajade wiwa",
+    "empty-state": " ",
+    "favorites": "Awọn ayanfẹ"
+  },
+  "settings": {
+    "broken": "Tọju awọn ibudo ti o fọ",
+    "quality": "HQ min. bitrate",
+    "tooltips": "Ṣe afihan awọn imọran irinṣẹ"
+  },
+  "dropdown": {
+    "website": "Ṣabẹwo Oju opo wẹẹbu",
+    "move-card": "Gbe pẹlu ◀▶▲▼",
+    "dialog-footer": "Pin awọn ibudo ayanfẹ rẹ nipasẹ Mii-Link",
+    "link-uuid": "Ṣẹda Mii-Link",
+    "remove-card": "Yọ kuro"
+  },
+  "tooltip": {
+    "hq": "Ṣe afihan awọn ṣiṣan didara ga nikan",
+    "sort-reverse": "Yiyipada lẹsẹsẹ ibere",
+    "sort-bitrate": "Too awọn ṣiṣan redio nipasẹ bitrate",
+    "sort-language": "To awọn abajade wiwa nipasẹ ede",
+    "sort-country": "Too nipa orilẹ-ede",
+    "sort-clicks": "Too nipasẹ awọn ṣiṣiṣẹsẹhin laarin wakati 24 sẹhin",
+    "sort-votes": "Too nipa ibo",
+    "search-mode": "Ipo wiwa",
+    "toggle-options": "Ṣe afihan awọn aṣayan wiwa",
+    "select-country": "Awọn ibudo nikan lati orilẹ-ede ti o yan",
+    "sort-name": "Too awọn esi pẹlu orukọ"
+  },
+  "storage": {
+    "title": "Awọn ayanfẹ fifuye",
+    "body": "Faili naa ṣofo tabi kii ṣe RadioMii *.rmf faili"
+  },
+  "del-favs": {
+    "yes": "Bẹẹni",
+    "no": "Rara",
+    "body": "Ṣe o fẹ paarẹ gbogbo awọn ibudo ayanfẹ rẹ bi?",
+    "title": "Paarẹ Awọn ayanfẹ"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "tips": {
+    "body": {
+      "p9": "Ti o ba padanu ibudo redio ayanfẹ rẹ, o le ṣafikun si ibi ipamọ data:",
+      "p8": "<1>/clicks</1> gba awọn ibudo ti o dun julọ",
+      "p7": "<1>/votes</1> gba awọn ibudo pẹlu 'Fẹran' pupọ julọ",
+      "p6": "Koodu orilẹ-ede bi <1>/de</1> ṣe atokọ gbogbo awọn ibudo German",
+      "p5": "Gbiyanju awọn aṣẹ ni aaye wiwa:",
+      "p4": "Nọmba awọn ṣiṣiṣẹsẹhin laarin wakati 24 sẹhin",
+      "p3": "Awọn nọmba ti 'Fẹran' a ibudo ni",
+      "p2": "| <1>Aaye</1> Ṣiṣẹ/Daduro | <1>+</1> Iwọn didun soke | <1>-</1> Iwọn didun isalẹ",
+      "p1": "Awọn bọtini Hot: <1>C</1> Iwapọ/Iwoye Boṣewa | <1>L</1> Tan/pa ina | <1>S</1> ṣe afihan/tọju awọn aṣayan wiwa "
+    },
+    "title": "Italolobo ati ẹtan"
+  },
+  "empty-state": {
+    "body-results": "Ko si esi fun ",
+    "body-favs": "Wa ayanfẹ rẹ ṣiṣan ki o si tẹ awọn"
+  }
+}

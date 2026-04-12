@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "exit-url": "Näita rohkem",
+    "results": "Otsingu tulemused",
+    "uuid": "Jaam alates Mii-Link",
+    "more": "Näita rohkem",
+    "favorites": "Lemmikud"
+  },
+  "searchbar": {
+    "name": "Nimi",
+    "genre": "Žanr",
+    "all": "Kõik",
+    "hq": "HQ",
+    "select-country": "Kõik riigid",
+    "placeholder-name": "Otsi nime järgi",
+    "placeholder-genre": "Otsing žanri järgi"
+  },
+  "menu": {
+    "layout": "Paigutus",
+    "standard-view": "Standard vaade",
+    "compact-view": "Kompaktne vaade",
+    "light-on": "Lülita valgus sisse",
+    "light-off": "Lülita valgus välja",
+    "restore-favs": "Lemmikute taastamine",
+    "backup-favs": "Varundatud lemmikud",
+    "delete-favs": "Kustuta kõik lemmikud",
+    "export-m3u": "Ekspordi M3U esitusloend",
+    "export-xspf": "Ekspordi XSPF esitusloend",
+    "tips": "Näpunäited ja nipid",
+    "about": "kohta RadioMii",
+    "language": "Keel",
+    "open-menu-fav": "Lemmikud",
+    "open-menu-plist": "Esitusnimekirjad",
+    "open-menu-settings": "Seaded",
+    "back": "Tagasi"
+  },
+  "tooltip": {
+    "toggle-options": "Näita otsinguvõimalusi",
+    "search-mode": "Otsingu režiim",
+    "sort-votes": "Sorteerimine häälte järgi",
+    "sort-clicks": "Sorteeri taasesituste järgi viimase 24 tunni jooksul",
+    "sort-name": "Sorteeri tulemused nime järgi",
+    "sort-country": "Sortida riigi järgi",
+    "sort-language": "Sorteeri otsingutulemused keele järgi",
+    "sort-bitrate": "Sorteeri raadiovooge bitikiiruse järgi",
+    "sort-reverse": "Vastupidine sortimisjärjekord",
+    "hq": "Näita ainult kvaliteetseid vooge",
+    "select-country": "Ainult valitud riigi jaamad"
+  },
+  "settings": {
+    "broken": "Peida katki jaamad",
+    "tooltips": "Näita tööriistatuletusi",
+    "quality": "HQ min. bitiirus"
+  },
+  "empty-state": {
+    "body-results": "Tulemusi ei ole ",
+    "body-favs": "Otsige oma lemmikvooge ja klõpsake"
+  },
+  "storage": {
+    "body": "Faili on tühi või see ei ole RadioMii *.rmf fail",
+    "title": "Laadige lemmikuid"
+  },
+  "dropdown": {
+    "move-card": "Liikuge koos ◀▶▲▼",
+    "remove-card": "Eemaldage",
+    "website": "Külasta veebilehte",
+    "link-uuid": "Loo Mii-Link",
+    "dialog-footer": "Jaga oma lemmikjaamu Mii-Linki kaudu"
+  },
+  "tips": {
+    "title": "Näpunäited ja nipid",
+    "body": {
+      "p1": "Pikaklahvid: <1>C</1> Kompakt-/standardvaade | <1>L</1> Valgus sisse/välja | <1>S</1> otsinguvõimaluste kuvamine/keelamine ",
+      "p2": "| <1>Space</1> Play/Pause | <1>+</1> Helitugevus üles | <1>-</1> Helitugevus alla",
+      "p3": "Jaamale antud \"meeldimiste\" arv",
+      "p4": "Taasesituste arv viimase 24 tunni jooksul",
+      "p5": "Proovige käske otsinguväljal:",
+      "p6": "Riigi kood nagu <1>/de</1> loetleb kõik Saksa jaamad",
+      "p7": "<1>/votes</1> toob jaamad, millel on kõige rohkem \"Meeldimisi\"",
+      "p8": "<1>/clicks</1> hangib kõige rohkem mängitud jaamad",
+      "p9": "Kui te igatsete oma lemmikraadiojaama, saate selle siin andmebaasi lisada:"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Kustuta lemmikud",
+    "body": "Kas soovite kustutada kõik lemmikjaamad?",
+    "yes": "Jah",
+    "no": "Ei"
+  }
+}

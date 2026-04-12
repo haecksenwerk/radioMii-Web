@@ -1,0 +1,93 @@
+{
+  "grid": {
+    "results": "Nhwehwɛmu a wɔyɛe",
+    "uuid": "Gyinabea a efi Mii-Link",
+    "more": "Kyerɛ pii",
+    "empty-state": " ",
+    "favorites": "Nea wɔpɛ paa",
+    "exit-url": "To mu Mii-Link"
+  },
+  "searchbar": {
+    "name": "Din",
+    "genre": "Ɔfa",
+    "all": "Nyinaa",
+    "hq": "HQ",
+    "select-country": "Aman nyinaa",
+    "placeholder-name": "Hwehwɛ din mu",
+    "placeholder-genre": "Hwehwɛ ɔkwan a wɔfa so hwehwɛ nneɛma mu"
+  },
+  "menu": {
+    "standard-view": "Standard View",
+    "compact-view": "Compact a ɛyɛ pɛpɛɛpɛ Hwɛ",
+    "light-on": "Dane Kanea no",
+    "light-off": "Dum Kanea no",
+    "restore-favs": "San Fa Favorites no Ba",
+    "backup-favs": "Backup Nneɛma a Wɔpɛ",
+    "delete-favs": "Popa Favorites nyinaa",
+    "export-m3u": "Fa M3U Playlist no kɔ amannɔne",
+    "tips": "Afotu ne Nneɛma a Wɔde Yɛ Adwuma",
+    "about": "Fa ho RadioMii",
+    "language": "Kasa",
+    "export-xspf": "Fa XSPF Playlist no kɔ amannɔne",
+    "open-menu-fav": "Nea wɔpɛ paa",
+    "open-menu-plist": "Nnwom a wɔbɔ",
+    "open-menu-settings": "Nsiesiei a Wɔde Yɛ Adwuma",
+    "back": "Akyire"
+  },
+  "tips": {
+    "body": {
+      "p8": "<1>/clicks</1> gye station dodow no ara a wɔabɔ",
+      "p7": "<1>/votes</1> fa stations a ɛwɔ 'Likes' pii",
+      "p6": "Ɔman mmara te sɛ <1>/de</1> kyerɛ german gyinabea nyinaa",
+      "p4": "Dodow a wɔabɔ wɔ 24h a atwam no mu",
+      "p3": "‘Likes’ dodow a station bi nyae",
+      "p2": "| <1>Ahunmu</1> Di agorɔ/Gyina | <1>+</1> Volume up | <1>-</1> Wo nne no so tew",
+      "p9": "Sɛ wopa radio dwumadibea a w’ani gye ho a, wubetumi de aka database no ho wɔ ha:",
+      "p5": "Sɔ ahyɛde ahorow a ɛwɔ searchfield no mu hwɛ:",
+      "p1": "Hotkeys: <1>C</1> Compact/Gyinapɛn Hwɛ | <1>L</1> Kanea a ɛsɔ/dum | <1>S</1> kyerɛ/de hwehwɛ akwan horow sie "
+    },
+    "title": "Afotu ne Nneɛma a Wɔde Yɛ Adwuma"
+  },
+  "settings": {
+    "tooltips": "Kyerɛ nnwinnade ho nyansahyɛ ahorow",
+    "quality": "HQ min. bitrate a wɔde di dwuma",
+    "broken": "Fa gyinabea ahorow a abubu sie"
+  },
+  "tooltip": {
+    "toggle-options": "Kyerɛ akwan a wobɛfa so ahwehwɛ",
+    "search-mode": "Ɔkwan a wɔfa so hwehwɛ nneɛma",
+    "sort-votes": "Hyehyɛ no sɛnea abatow ahorow te",
+    "sort-name": "Hyehyɛ nea efi mu ba no sɛnea edin te",
+    "sort-country": "Hyehyɛ no sɛnea ɔman biara te",
+    "sort-language": "Hyehyɛ nea wɔhwehwɛ mu no sɛnea kasa te",
+    "sort-reverse": "Dane nhyehyɛe a wɔahyehyɛ no akyi",
+    "hq": "Kyerɛ nsubɔnten a ɛkorɔn nkutoo",
+    "select-country": "Gyinabea ahorow a efi ɔman bi a wɔapaw mu nkutoo",
+    "sort-clicks": "Hyehyɛ sɛnea wɔbɔ wɔ 24h a atwam no mu",
+    "sort-bitrate": "Hyehyɛ radio so nsɛm no sɛnea bitrate te"
+  },
+  "dropdown": {
+    "move-card": "Kɔ fa ne ◀▶▲▼",
+    "remove-card": "Yi",
+    "website": "Kɔ Wɛbsaet no so",
+    "dialog-footer": "Kyɛ wo stations a w’ani gye ho via Mii-Link",
+    "link-uuid": "Yɛ Mii-Link"
+  },
+  "storage": {
+    "title": "Load Favorites a Wɔde Siesie Nneɛma a Wopɛ",
+    "body": "Fael no da mpan anaasɛ ɛnyɛ RadioMii *.rmf fael"
+  },
+  "del-favs": {
+    "yes": "Aane",
+    "no": "Daabi",
+    "body": "So wopɛ sɛ wopopa station ahorow a w’ani gye ho nyinaa?",
+    "title": "Popa Nea Wopɛ"
+  },
+  "empty-state": {
+    "body-results": "No result for ",
+    "body-favs": "Hwehwɛ streams a w’ani gye ho na klik"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

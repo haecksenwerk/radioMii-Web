@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "uuid": "Dan stantsiya Mii-Link",
+    "more": "Ko'proq ko'rsatish",
+    "exit-url": "Yopish Mii-Link",
+    "empty-state": " ",
+    "favorites": "Tanlanganlar",
+    "results": "Qidiruv natijalari"
+  },
+  "menu": {
+    "layout": "Tartib",
+    "standard-view": "Standart Ko'rinish",
+    "export-m3u": "Eksport qilish M3U Pleylist",
+    "back": "Orqaga",
+    "compact-view": "Ixcham Ko'rinish",
+    "light-on": "Chiroqni yoqing",
+    "light-off": "Chiroqni o'chiring",
+    "restore-favs": "Sevimlilarni Tiklash",
+    "backup-favs": "Tanlanganni Bekitish",
+    "delete-favs": "Hamma tanlanganlarni olib tashlash",
+    "export-xspf": "Eksport qilish XSPF Pleylist",
+    "tips": "Maslahatlar va fokuslar",
+    "about": "Haqida RadioMii",
+    "language": "Til",
+    "open-menu-fav": "Tanlanganlar",
+    "open-menu-plist": "Pleylistlarname",
+    "open-menu-settings": "Moslamalar"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate",
+    "broken": "Buzilgan stantsiyalarni yashirish",
+    "tooltips": "Xabarlarni ko'rsatish"
+  },
+  "tooltip": {
+    "search-mode": "Qidiruv rejimi",
+    "sort-clicks": "O'tgan 24h ichida playbacks tomonidan tartiblash",
+    "sort-language": "Qidiruv natijalarini til bo'yicha saralash",
+    "select-country": "Faqat tanlangan mamlakatdan stantsiyalar",
+    "toggle-options": "Qidirish parametrlarini ko'rsatish",
+    "sort-votes": "Ovozlar bo'yicha saralash",
+    "sort-name": "Natijalarni nomi bo'yicha saralash",
+    "sort-country": "Mamlakatlar bo'yicha saralash",
+    "sort-bitrate": "Radio oqimlarini bitrate bo'yicha saralash",
+    "sort-reverse": "Teskari tartiblash tartibi",
+    "hq": "Faqat yuqori sifatli oqimlarni ko'rsating"
+  },
+  "tips": {
+    "body": {
+      "p8": "<1>/clicks</1> eng o'ynadi stantsiyalari keltiradi",
+      "p7": "<1>/votes</1> eng ko'p 'Like'bo'lgan stansiyalarni olib keladi",
+      "p2": "/<1>Space</1> Play | Pause / <1>+</1> Volume up / <1>-</1> Volume pastga",
+      "p1": "Tezkor tugmalar: <1>C</1> ixcham/standart ko'rinish | <1>L</1> chiroq yonadi/o'chadi | <1>S</1> qidirish parametrlarini ko'rsatish/yashirish ",
+      "p6": "Kabi mamlakat kodi<1>/de </1> barcha nemis stantsiyalarini ro'yxatlaydi",
+      "p5": "Qidirish maydonidagi buyruqlarni sinab ko'ring:",
+      "p4": "O'tgan 24h ichida playbacks soni",
+      "p3": "Stantsiyadagi 'yoqtirishlar' soni",
+      "p9": "Agar siz sevimli radiostansiyangizni o'tkazib yuborsangiz, uni bu erda ma'lumotlar bazasiga qo'shishingiz mumkin:"
+    },
+    "title": "Maslahatlar va fokuslar"
+  },
+  "searchbar": {
+    "name": "Nomi",
+    "genre": "Janr",
+    "all": "Hammasi",
+    "hq": "HQ",
+    "select-country": "Barcha mamlakatlar",
+    "placeholder-name": "Ism bo'yicha qidirish",
+    "placeholder-genre": "Janr bo'yicha qidirish"
+  },
+  "dropdown": {
+    "dialog-footer": "Sevimli stantsiyalaringizni Mii-Link orqali baham ko'ring",
+    "link-uuid": "Yaratish Mii-Link",
+    "website": "Veb-Saytga Tashrif Buyuring",
+    "remove-card": "Olib tashlash",
+    "move-card": "Bilan harakatlaning ◀▶▲▼"
+  },
+  "empty-state": {
+    "body-results": "Natijalar yo'q ",
+    "body-favs": "Sevimli oqimlaringizni qidiring va ni bosing"
+  },
+  "storage": {
+    "body": "Fayl bo'sh yoki RadioMii emas *.rmf fayli",
+    "title": "Sevimlilarni Yuklash"
+  },
+  "del-favs": {
+    "yes": "Ha",
+    "no": "Yo'q",
+    "body": "Barcha sevimli stantsiyalarni o'chirishni xohlaysizmi?",
+    "title": "Tanlanganlarni Olib Tashlash"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

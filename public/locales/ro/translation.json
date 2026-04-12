@@ -1,0 +1,93 @@
+{
+  "tips": {
+    "body": {
+      "p2": "| <1>Spațiu</1> Redare/Pauză | <1>+</1> Volum în sus | <1>-</1> Volum în jos",
+      "p8": "<1>/clicks</1> aduce cele mai difuzate posturi de radio",
+      "p7": "<1>/votes</1> aduce stațiile cu cele mai multe 'Like-uri'",
+      "p6": "Un cod de țară precum <1>/de</1> listează toate stațiile germane",
+      "p4": "Numărul de redări în ultimele 24h",
+      "p3": "Numărul de \"Like-uri\" obținute de o stație",
+      "p1": "Tastele rapide: <1>C</1> Vizualizare compactă/standard | <1>L</1> Lumină aprinsă/oprită | <1>S</1> afișează/ascunde opțiunile de căutare ",
+      "p9": "Dacă vă lipsește postul de radio preferat, îl puteți adăuga aici în baza de date:",
+      "p5": "Încercați comenzi în câmpul de căutare:"
+    },
+    "title": "Sfaturi și trucuri"
+  },
+  "tooltip": {
+    "sort-bitrate": "Sortați fluxurile radio după bitrate",
+    "sort-language": "Sortați rezultatele căutării după limbă",
+    "sort-reverse": "Inversarea ordinii de sortare",
+    "toggle-options": "Afișați opțiunile de căutare",
+    "sort-votes": "Sortează după voturi",
+    "sort-clicks": "Sortează după redări în ultimele 24 de ore",
+    "sort-name": "Sortează rezultatele după nume",
+    "sort-country": "Sortează după țară",
+    "search-mode": "Mod căutare",
+    "hq": "Afișați numai fluxuri de înaltă calitate",
+    "select-country": "Numai stații dintr-o țară selectată"
+  },
+  "dropdown": {
+    "dialog-footer": "Partajați-vă posturile preferate prin Mii-Link",
+    "move-card": "Mutarea cu ◀▶▲▼",
+    "link-uuid": "Creați Mii-Link",
+    "website": "Vizitați site-ul web",
+    "remove-card": "Eliminați"
+  },
+  "grid": {
+    "results": "Rezultatele căutării",
+    "uuid": "Stație de la Mii-Link",
+    "more": "Arată mai mult",
+    "exit-url": "Închide Mii-Link",
+    "empty-state": " ",
+    "favorites": "Favorite"
+  },
+  "searchbar": {
+    "name": "Nume",
+    "all": "Toate",
+    "select-country": "Toate țările",
+    "placeholder-name": "Căutare după nume",
+    "placeholder-genre": "Căutare după gen",
+    "genre": "Gen",
+    "hq": "HQ"
+  },
+  "menu": {
+    "restore-favs": "Restaurați favoritele",
+    "backup-favs": "Favorite de rezervă",
+    "export-m3u": "Exportați lista de redare M3U",
+    "export-xspf": "Exportați lista de redare XSPF",
+    "open-menu-plist": "Liste de redare",
+    "open-menu-settings": "Setări",
+    "about": "Despre RadioMii",
+    "language": "Limba",
+    "standard-view": "Vedere standard",
+    "compact-view": "Vedere compactă",
+    "light-on": "Aprindeți lumina",
+    "light-off": "Opriți lumina",
+    "delete-favs": "Ștergeți toate favoritele",
+    "open-menu-fav": "Favorite",
+    "back": "Inapoi",
+    "tips": "Sfaturi și trucuri"
+  },
+  "empty-state": {
+    "body-results": "Niciun rezultat pentru ",
+    "body-favs": "Căutați fluxurile dvs. preferate și faceți clic pe butonul"
+  },
+  "storage": {
+    "body": "Fișierul este gol sau nu este un fișier RadioMii *.rmf",
+    "title": "Încărcați favoritele"
+  },
+  "del-favs": {
+    "yes": "Da",
+    "no": "Nu",
+    "body": "Doriți să ștergeți toate posturile favorite?",
+    "title": "Ștergeți favoritele"
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate",
+    "broken": "Ascundeți stațiile rupte",
+    "tooltips": "Afișați tooltips"
+  }
+}

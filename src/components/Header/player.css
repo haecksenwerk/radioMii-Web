@@ -1,0 +1,56 @@
+.audio-controls {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .audio-controls {
+    justify-content: flex-end;
+  }
+}
+
+.volume-control {
+  display: flex;
+  align-items: center;
+  margin-right: 24px;
+  gap: 5px;
+}
+
+.volume-slider {
+  width: 80px;
+  height: 5px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--miiGrey);
+  border-radius: 5px;
+  outline: none;
+}
+
+/* Webkit browsers (Chrome, Safari, Edge) */
+.volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  background: var(--miiOrange);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Firefox */
+.volume-slider::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  background: var(--miiOrange);
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+.speaker-icon {
+  width: 18px;
+  height: 18px;
+  color: #868686;
+}

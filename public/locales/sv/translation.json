@@ -1,0 +1,94 @@
+{
+  "tips": {
+    "body": {
+      "p3": "Antalet \"Gillar\" som en station har fått",
+      "p5": "Prova kommandon i sökfältet:",
+      "p1": "Snabbknappar: <1>C</1> Kompakt/standardvy | <1>L</1> Ljuset på/av | <1>S</1> Visa/dölj sökalternativ ",
+      "p9": "Om du saknar din favoritradiostation kan du lägga till den här i databasen:",
+      "p7": "<1>/votes</1> hämtar de stationer som har flest \"gillar\"",
+      "p8": "<1>/clicks</1> hämtar mest spelade stationer",
+      "p6": "En landskod som <1>/de</1> listar alla tyska stationer",
+      "p4": "Antalet uppspelningar under de senaste 24 timmarna",
+      "p2": "| <1>Space</1> Spela upp/pausa | <1>+</1> Ljudstyrka upp | <1>-</1> Ljudstyrka ner"
+    },
+    "title": "Tips och tricks"
+  },
+  "menu": {
+    "layout": "Layout",
+    "backup-favs": "Backup Favoriter",
+    "delete-favs": "Radera alla favoriter",
+    "export-m3u": "Exportera M3U-spellista",
+    "export-xspf": "Export av XSPF-spellista",
+    "tips": "Tips och tricks",
+    "language": "Språk",
+    "open-menu-fav": "Favoriter",
+    "open-menu-plist": "Spellistor",
+    "open-menu-settings": "Inställningar",
+    "back": "Tillbaka",
+    "about": "Om RadioMii",
+    "restore-favs": "Återskapa favoriter",
+    "compact-view": "Kompakt vy",
+    "standard-view": "Standardvy",
+    "light-on": "Slå på ljuset",
+    "light-off": "Släck ljuset"
+  },
+  "settings": {
+    "broken": "Dölj trasiga stationer",
+    "tooltips": "Visa verktygstips",
+    "quality": "HQ min. bithastighet"
+  },
+  "dropdown": {
+    "dialog-footer": "Dela dina favoritstationer via Mii-Link",
+    "link-uuid": "Skapa Mii-Link",
+    "website": "Besök webbplats",
+    "remove-card": "Ta bort",
+    "move-card": "Flytta med ◀▶▲▼"
+  },
+  "tooltip": {
+    "hq": "Visa bara strömmar av hög kvalitet",
+    "sort-bitrate": "Sortera radioströmmar efter bitrate",
+    "sort-language": "Sortera sökresultaten efter språk",
+    "sort-country": "Sortera efter land",
+    "sort-name": "Sortera resultat efter namn",
+    "sort-votes": "Sortera efter röster",
+    "search-mode": "Sökläge",
+    "toggle-options": "Visa sökalternativ",
+    "select-country": "Endast stationer från ett valt land",
+    "sort-reverse": "Omvänd sorteringsordning",
+    "sort-clicks": "Sortera efter uppspelningar inom 24 timmar"
+  },
+  "searchbar": {
+    "placeholder-genre": "Sök efter genre",
+    "select-country": "Alla länder",
+    "hq": "HQ",
+    "all": "Alla",
+    "name": "Namn",
+    "genre": "Genre",
+    "placeholder-name": "Sök efter namn"
+  },
+  "grid": {
+    "exit-url": "Stäng Mii-Link",
+    "more": "Visa mer",
+    "empty-state": " ",
+    "favorites": "Favoriter",
+    "results": "Sökresultat",
+    "uuid": "Station från Mii-Link"
+  },
+  "empty-state": {
+    "body-results": "Inga resultat för ",
+    "body-favs": "Sök dina favoritströmmar och klicka på"
+  },
+  "storage": {
+    "body": "Filen är tom eller det är inte en RadioMii *.rmf-fil",
+    "title": "Ladda favoriter"
+  },
+  "del-favs": {
+    "yes": "Ja",
+    "no": "Nej",
+    "body": "Vill du radera alla favoritstationer?",
+    "title": "Radera favoriter"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

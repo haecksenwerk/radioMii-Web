@@ -1,0 +1,94 @@
+{
+  "menu": {
+    "layout": "Layout",
+    "backup-favs": "I-backup ang mga Paborito",
+    "delete-favs": "Pagtangtang sa tanan nga mga Paborito",
+    "export-m3u": "I-export ang M3U Playlist",
+    "tips": "Mga Tip ug Tricks",
+    "about": "Mahitungod sa RadioMii",
+    "language": "Pinulongan",
+    "open-menu-fav": "Mga paborito",
+    "open-menu-plist": "Mga playlist",
+    "open-menu-settings": "Mga setting",
+    "back": "Balik",
+    "standard-view": "Standard nga Panglantaw",
+    "compact-view": "Compact nga Panglantaw",
+    "light-on": "I-on ang Kahayag",
+    "light-off": "Palonga ang Kahayag",
+    "export-xspf": "I-export ang XSPF Playlist",
+    "restore-favs": "Iuli ang mga Paborito"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate",
+    "tooltips": "Ipakita ang mga tooltip",
+    "broken": "Tagoa ang guba nga mga estasyon"
+  },
+  "grid": {
+    "favorites": "Mga paborito",
+    "empty-state": " ",
+    "results": "Mga resulta sa pagpangita",
+    "uuid": "Estasyon gikan sa Mii-Link",
+    "more": "Ipakita ang dugang",
+    "exit-url": "Isira ang Mii-Link"
+  },
+  "searchbar": {
+    "name": "Ngalan",
+    "genre": "Genre",
+    "all": "Tanan",
+    "hq": "HQ",
+    "placeholder-name": "Pangitaa pinaagi sa ngalan",
+    "placeholder-genre": "Pangita pinaagi sa genre",
+    "select-country": "Tanang nasod"
+  },
+  "tooltip": {
+    "search-mode": "Pagpangita mode",
+    "sort-votes": "Paghan-ay pinaagi sa mga boto",
+    "sort-clicks": "Paghan-ay pinaagi sa mga playback sulod sa milabay nga 24h",
+    "sort-name": "Paghan-ay sa mga resulta pinaagi sa ngalan",
+    "sort-country": "Paghan-ay sumala sa nasud",
+    "sort-bitrate": "Pagsunud sa mga sapa sa radyo pinaagi sa bitrate",
+    "sort-reverse": "Balika ang pagkahan-ay",
+    "hq": "Ipakita lamang ang taas nga kalidad nga mga sapa",
+    "toggle-options": "Ipakita ang mga kapilian sa pagpangita",
+    "sort-language": "Paghan-ay sa mga resulta sa pagpangita pinaagi sa pinulongan",
+    "select-country": "Mga estasyon lang gikan sa piniling nasod"
+  },
+  "dropdown": {
+    "move-card": "Lihok gamit ang ◀▶▲▼",
+    "remove-card": "Kuhaa",
+    "website": "Bisitaha ang Website",
+    "link-uuid": "Paghimo Mii-Link",
+    "dialog-footer": "Ipaambit ang imong paborito nga mga estasyon pinaagi sa Mii-Link"
+  },
+  "tips": {
+    "title": "Mga Tip ug Tricks",
+    "body": {
+      "p3": "Ang gidaghanon sa 'Likes' nga nakuha sa usa ka estasyon",
+      "p4": "Ang gidaghanon sa mga playback sulod sa milabay nga 24h",
+      "p8": "<1>/clicks</1> nagkuha sa kadaghanan nga gipatugtog nga mga estasyon",
+      "p1": "Mga hotkey: <1>C</1> Compact/Standard View | <1>L</1> Kahayag on/off | <1>S</1> ipakita/tago ang mga kapilian sa pagpangita ",
+      "p2": "| <1>Luna</1> Play/Pause | <1>+</1> Taas ang volume | <1>-</1> Ipaubos ang volume",
+      "p5": "Sulayi ang mga sugo sa natad sa pagpangita:",
+      "p6": "Ang kodigo sa nasod sama sa <1>/de</1> naglista sa tanang estasyon sa Aleman",
+      "p7": "<1>/votes</1> nagkuha sa mga estasyon nga adunay pinakadaghang 'Gusto'",
+      "p9": "Kung gimingaw ka sa imong paborito nga estasyon sa radyo, mahimo nimo kini idugang dinhi sa database:"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Pagtangtang sa mga Paborito",
+    "no": "Dili",
+    "yes": "Oo",
+    "body": "Gusto ba nimong papason ang tanang paboritong estasyon?"
+  },
+  "storage": {
+    "title": "Pag-load sa mga Paborito",
+    "body": "Ang file walay sulod o kini dili RadioMii *.rmf file"
+  },
+  "empty-state": {
+    "body-favs": "Pangitaa ang imong paborito nga mga sapa ug i-klik ang",
+    "body-results": "Walay resulta para sa "
+  }
+}

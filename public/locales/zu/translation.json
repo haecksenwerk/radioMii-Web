@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "favorites": "Izintandokazi",
+    "results": "Hlola uhlu",
+    "uuid": "Station Kusukela Mii-Link",
+    "more": "Bonisa ngini",
+    "exit-url": "Vala Mii-Link",
+    "empty-state": " "
+  },
+  "searchbar": {
+    "name": "Igama",
+    "genre": "Uhlobo",
+    "all": "Bonke",
+    "hq": "HQ",
+    "select-country": "Wonke amazwe",
+    "placeholder-name": "Hlola uhlu",
+    "placeholder-genre": "Sesha nge uhlobo"
+  },
+  "menu": {
+    "layout": "Ukubeka",
+    "standard-view": "Isibonisi Esijwayelekile",
+    "compact-view": "Isibonisi Sokuqukethwe",
+    "light-on": "Vula Ukukhanya",
+    "light-off": "Cisha Ukukhanya",
+    "restore-favs": "Buyisela Izintandokazi",
+    "backup-favs": "Izintandokazi Backup",
+    "delete-favs": "Susa Zonke Izintandokazi",
+    "export-m3u": "Thekelisa M3U Uhlu lokudlalwayo",
+    "export-xspf": "Thekelisa MSPF Uhlu lokudlalwayo",
+    "tips": "Amathiphu Namasu",
+    "about": "Mayelana RadioMii",
+    "open-menu-fav": "Izintandokazi",
+    "open-menu-plist": "Uhlu lokudlalwayo",
+    "open-menu-settings": "Izilungiselelo",
+    "language": "Ulimi",
+    "back": "Emuva"
+  },
+  "settings": {
+    "quality": "HQ min. bitmango",
+    "broken": "Fihla iziteshi ephukile",
+    "tooltips": "Tshengisa izihloko zezisebenziso"
+  },
+  "tooltip": {
+    "search-mode": "Hlola uhlu",
+    "sort-votes": "Hlunga amavot",
+    "sort-clicks": "Hlunga ukudlala ngaphakathi esidlule 24h",
+    "sort-name": "Hlunga imiphumela ngegama",
+    "sort-country": "Hlunga live",
+    "sort-language": "Uhlobo imiphumela yosesho ngolimi",
+    "sort-bitrate": "Uhlobo radio nemifudlana by bitrate",
+    "sort-reverse": "Ukuhlanekezela uhlobo oda",
+    "hq": "Bonisa imifudlana izinga okusezingeni kuphela",
+    "select-country": "Iziteshi kuphela ezweni ekhethiwe",
+    "toggle-options": "Bonisa izinketho zosesho"
+  },
+  "dropdown": {
+    "move-card": "Ukuhambisa ◀▶▲▼",
+    "remove-card": "Susa",
+    "website": "Vakashela Iwebhusayithi",
+    "link-uuid": "Dala Mii-Link",
+    "dialog-footer": "Yabelana iziteshi zakho ozithandayo Nge Mii-Link"
+  },
+  "tips": {
+    "title": "Amathiphu Namasu",
+    "body": {
+      "p1": "Hotkeys: <1>C</1> Icwecwe / Buka Ejwayelekile | <1>L</1> Ukukhanya/off | <1>S</1> bonisa/fihla izinketho zokucinga ",
+      "p2": "| <1>Isikhala</1> Play/Misa | <1>+</1> ivolumu phezulu | <1>-</1> ivolumu phansi",
+      "p3": "Isibalo' Ukuthandwa ' isiteshi got",
+      "p4": "Inani lokudlala esikhathini esidlule 24h",
+      "p6": "A ikhodi yezwe like <1>/de</1> libala zonke iziteshi german",
+      "p7": "<1>/votes</1> fetches iziteshi kakhulu 'Ukuthandwa'",
+      "p8": "<1>/clicks</1> fetches iziteshi kakhulu wadlala",
+      "p9": "Uma miss isiteshi sakho ozithandayo radio, ungakwazi uyifaka lapha database:",
+      "p5": "Zama imiyalo endaweni yokusesha:"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Susa Izintandokazi",
+    "body": "Ingabe ufuna ukususa zonke iziteshi ozithandayo?",
+    "no": "Cha",
+    "yes": "Yebo"
+  },
+  "storage": {
+    "title": "Layisha Izintandokazi",
+    "body": "Ifayela alinalutho noma akulona RadioMii *.rmf ifayela"
+  },
+  "empty-state": {
+    "body-results": "Ayikho imiphumela for ",
+    "body-favs": "Ukucinga imifula zakho ozithandayo bese uchofoza"
+  }
+}

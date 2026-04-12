@@ -1,0 +1,94 @@
+{
+  "tips": {
+    "body": {
+      "p1": "Tikhiyi to hisa: <1>C</1> Xivono xa Compact/Standard | <1>L</1> Ku voninga/ku tima | <1>S</1> kombisa/fihla swihlawulekisi swa ku lavisisa ",
+      "p2": "| <1>Ndhawu</1> Tlanga/Ku yima | <1>+</1> Ku tlakusa vholumo | <1>-</1> Vholumo yi hunguta",
+      "p3": "Nhlayo ya 'Likes' leyi xitichi xi yi kumeke",
+      "p4": "Nhlayo ya ku tlangiwa eka 24h leyi hundzeke",
+      "p5": "Ringeta swileriso eka ndhawu yo lavisisa:",
+      "p6": "Khodi ya tiko yo fana na <1>/de</1> yi xaxameta switichi hinkwaswo swa xijarimani",
+      "p7": "<1>/votes</1> yi teka switichi leswi nga na ti 'Likes' to tala",
+      "p8": "<1>/clicks</1> yi teka switichi swo tala leswi tlangiwaka",
+      "p9": "Loko u pfumala xitichi xa xiya-ni-moya lexi u xi tsakelaka, u nga xi engetela laha eka database:"
+    },
+    "title": "Switsundzuxo na Switsundzuxo"
+  },
+  "grid": {
+    "uuid": "Xitichi ku suka e Mii-Link",
+    "more": "Kombisa swo tala",
+    "exit-url": "Pfala Mii-Link",
+    "empty-state": " ",
+    "favorites": "Swilo leswi rhandzekaka",
+    "results": "Vuyelo bya ku lavisisa"
+  },
+  "searchbar": {
+    "name": "Vito",
+    "genre": "Muxaka wa vuyimbeleri",
+    "all": "Hinkwaswo",
+    "hq": "HQ",
+    "select-country": "Matiko hinkwawo",
+    "placeholder-genre": "Ku lavisisa hi muxaka wa vuyimbeleri",
+    "placeholder-name": "Ku lavisisa hi vito"
+  },
+  "menu": {
+    "layout": "Ukubeka",
+    "standard-view": "Xivono xa Xiyimo xa le Henhla",
+    "compact-view": "Xivono xa Compact",
+    "light-on": "Vulavula Rivoni",
+    "light-off": "Tima Rivoni",
+    "restore-favs": "Vuyisela Swilo Leswi Rhandziwaka",
+    "delete-favs": "Susa hinkwaswo leswi u swi tsakelaka",
+    "export-m3u": "Rhumela ehandle Nxaxamelo wa Swichayachayana swa M3U",
+    "tips": "Switsundzuxo na Switsundzuxo",
+    "about": "Malunghana na RadioMii",
+    "language": "Ririmi",
+    "open-menu-fav": "Swilo leswi rhandzekaka",
+    "open-menu-plist": "Minxaxamelo ya swichayachayana",
+    "open-menu-settings": "Switirhisiwa",
+    "back": "Tlhelela",
+    "backup-favs": "Swilo leswi Rhandziwaka swa Backup",
+    "export-xspf": "Rhumela ehandle Nxaxamelo wa Swichayachayana swa XSPF"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate ya xirhendzevutani",
+    "tooltips": "Kombisa switsundzuxo swa switirhisiwa",
+    "broken": "Fihla switichi leswi tshovekeke"
+  },
+  "tooltip": {
+    "toggle-options": "Kombisa swihlawulekisi swo lavisisa",
+    "search-mode": "Mode yo lavisisa",
+    "sort-votes": "Hlela hi tivhoti",
+    "sort-name": "Hlela mimbuyelo hi mavito",
+    "sort-country": "Hlela hi ku ya hi tiko",
+    "sort-language": "Hlela mimbuyelo ya ku lavisisa hi ririmi",
+    "sort-bitrate": "Hlela swihambukelo swa xiya-ni-moya hi bitrate",
+    "hq": "Kombisa ntsena swinambyana swa xiyimo xa le henhla",
+    "select-country": "Switichi ntsena leswi humaka etikweni leri hlawuriweke",
+    "sort-clicks": "Hlela hi ku tlanga ku nga si hela 24h",
+    "sort-reverse": "Ku tlherisela endzhaku ku landzelelana ka ku hlela"
+  },
+  "dropdown": {
+    "move-card": "Famba na ◀▶▲▼",
+    "remove-card": "Susa",
+    "website": "Endzela Website",
+    "dialog-footer": "Hlanganisa switichi leswi u swi tsakelaka hi ku tirhisa Mii-Link",
+    "link-uuid": "Ku tumbuluxa Mii-Link"
+  },
+  "empty-state": {
+    "body-results": "Ku hava mbuyelo wa ",
+    "body-favs": "Secha swihambukelo leswi u swi tsakelaka ivi u tikhoma"
+  },
+  "storage": {
+    "body": "Fayili a yi na nchumu kumbe a hi fayili ya RadioMii *.rmf",
+    "title": "Layicha Swilo Leswi Rhandziwaka"
+  },
+  "del-favs": {
+    "yes": "Ina",
+    "no": "E-e",
+    "body": "Xana u lava ku susa switichi hinkwaswo leswi u swi tsakelaka?",
+    "title": "Susa Swilo Leswi Rhandzaka"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

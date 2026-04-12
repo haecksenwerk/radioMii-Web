@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Favorites",
+    "results": "Search results",
+    "uuid": "Station from Mii-Link",
+    "more": "Show more",
+    "exit-url": "Close Mii-Link"
+  },
+  "searchbar": {
+    "name": "Name",
+    "genre": "Genre",
+    "all": "All",
+    "hq": "HQ",
+    "select-country": "All countries",
+    "placeholder-name": "Search by name",
+    "placeholder-genre": "Search by genre"
+  },
+  "menu": {
+    "layout": "Layout",
+    "standard-view": "Standard View",
+    "compact-view": "Compact View",
+    "light-on": "Turn the Light On",
+    "light-off": "Turn the Light Off",
+    "restore-favs": "Restore Favorites",
+    "backup-favs": "Backup Favorites",
+    "delete-favs": "Delete all Favorites",
+    "export-m3u": "Export M3U Playlist",
+    "export-xspf": "Export XSPF Playlist",
+    "tips": "Tips and Tricks",
+    "about": "About RadioMii",
+    "language": "Language",
+    "open-menu-fav": "Favorites",
+    "open-menu-plist": "Playlists",
+    "open-menu-settings": "Settings",
+    "back": "Back"
+  },
+  "settings": {
+    "quality": "HQ min. bitrate",
+    "broken": "Hide broken stations",
+    "tooltips": "Show tooltips"
+  },
+  "tooltip": {
+    "toggle-options": "Show search options",
+    "search-mode": "Search mode",
+    "sort-votes": "Sort by votes",
+    "sort-clicks": "Sort by playbacks within past 24h",
+    "sort-name": "Sort results by name",
+    "sort-country": "Sort by country",
+    "sort-language": "Sort search results by language",
+    "sort-bitrate": "Sort radio streams by bitrate",
+    "sort-reverse": "Reverse sort order",
+    "hq": "Show only high quality streams",
+    "select-country": "Only stations from a choosen country"
+  },
+  "dropdown": {
+    "move-card": "Move with ◀▶▲▼",
+    "remove-card": "Remove",
+    "website": "Visit Website",
+    "link-uuid": "Create Mii-Link",
+    "dialog-footer": "Share your favorite stations via Mii-Link"
+  },
+  "tips": {
+    "title": "Tips and Tricks",
+    "body": {
+      "p1": "Hotkeys: <1>C</1> Compact/Standard View | <1>L</1> Light on/off | <1>S</1> show/hide search options ",
+      "p2": "| <1>Space</1> Play/Pause | <1>+</1> Volume up | <1>-</1> Volume down",
+      "p3": "The number of 'Likes' a station got",
+      "p4": "The number of playbacks within the past 24h",
+      "p5": "Try commands in the searchfield:",
+      "p6": "A country code like <1>/de</1> lists all german stations",
+      "p7": "<1>/votes</1> fetches stations with the most 'Likes'",
+      "p8": "<1>/clicks</1> fetches most played stations",
+      "p9": "If you miss your favorite radio station, you can add it here to the database:"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Delete Favorites",
+    "body": "Do you want to delete all favorite stations?",
+    "no": "No",
+    "yes": "Yes"
+  },
+  "storage": {
+    "title": "Load Favorites",
+    "body": "The file is empty or it is not a RadioMii *.rmf file"
+  },
+  "empty-state": {
+    "body-favs": "Search your favorite streams and click the",
+    "body-results": "No results for "
+  }
+}

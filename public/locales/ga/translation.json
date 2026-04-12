@@ -1,0 +1,94 @@
+{
+  "menu": {
+    "layout": "Leagan amach",
+    "backup-favs": "Ceanáin Chúltaca",
+    "restore-favs": "Athchóirigh Na Ceanáin",
+    "light-off": "Múch An Solas",
+    "compact-view": "Amharc Dlúth",
+    "standard-view": "Amharc Caighdeánach",
+    "back": "Siar",
+    "export-xspf": "Easpórtáil Seinmliosta XSPF",
+    "open-menu-settings": "Socruithe",
+    "open-menu-plist": "Seinmliostaí",
+    "tips": "Leideanna agus Cleasanna",
+    "about": "Eolas RadioMii",
+    "language": "Teanga",
+    "open-menu-fav": "Ceanáin",
+    "delete-favs": "Scrios Gach Ceanán",
+    "light-on": "Cas An Solas Ar",
+    "export-m3u": "Easpórtáil Seinmliosta M3U"
+  },
+  "searchbar": {
+    "placeholder-genre": "Cuardaigh de réir seánra",
+    "placeholder-name": "Cuardaigh de réir ainm",
+    "select-country": "Gach tír",
+    "name": "Ainm",
+    "genre": "Seánra",
+    "all": "Uile",
+    "hq": "HQ"
+  },
+  "settings": {
+    "tooltips": "Taispeáin leideanna uirlisí",
+    "broken": "Folaigh stáisiúin bhriste",
+    "quality": "HQ min. ráta giotán"
+  },
+  "tooltip": {
+    "toggle-options": "Taispeáin roghanna cuardaigh",
+    "search-mode": "Mód cuardaigh",
+    "sort-votes": "Sórtáil de réir vótaí",
+    "sort-language": "Sórtáil torthaí an chuardaigh de réir teanga",
+    "sort-bitrate": "Sórtáil sruthanna raidió de réir ráta giotán",
+    "sort-reverse": "Ord sórtála droim ar ais",
+    "hq": "Ná taispeáin ach sruthanna ardchaighdeáin",
+    "sort-clicks": "Sórtáil de réir athsheinm laistigh de 24h",
+    "sort-name": "Sórtáil torthaí de réir ainm",
+    "sort-country": "Sórtáil de réir tíre",
+    "select-country": "Stáisiúin amháin ó thír roghnaithe"
+  },
+  "tips": {
+    "body": {
+      "p5": "Bain triail as orduithe sa réimse cuardaigh:",
+      "p2": "| <1>Spás</1> Súgradh/Sos / <1>+</1> Toirt suas / <1>-</1> Toirt síos",
+      "p4": "Líon na n-athsheinm laistigh de 24h",
+      "p9": "Má chailleann tú do stáisiún raidió is fearr leat, is féidir leat é a chur anseo leis an mbunachar sonraí:",
+      "p8": "<1>/clicks</1> fetches stáisiúin is mó a bhí",
+      "p7": "<1>/votes</1> fetches stáisiúin leis an chuid is mó 'Likes'",
+      "p6": "Cód tíre cosúil le <1>/de</1> liostaí gach stáisiún na gearmáine",
+      "p3": "Líon na 'Likes' a fuair stáisiún",
+      "p1": "Hotkeys: <1>C</1> Dearcadh Dlúth/Caighdeánach / <1>L</1> Solas ar/as | <1>S</1> tspeáin / folaigh roghanna cuardaigh "
+    },
+    "title": "Leideanna agus Cleasanna"
+  },
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Ceanáin",
+    "results": "Torthaí an chuardaigh",
+    "more": "Taispeáin níos mó",
+    "uuid": "Stáisiún Ó Mii-Nasc",
+    "exit-url": "Dún Mii-Nasc"
+  },
+  "dropdown": {
+    "dialog-footer": "Comhroinn do stáisiúin is fearr leat trí Mii-Nasc",
+    "link-uuid": "Cruthaigh Mii-Nasc",
+    "website": "Tabhair Cuairt Ar Láithreán Gréasáin",
+    "remove-card": "Bain",
+    "move-card": "Bog le ▶ ▲ ▲"
+  },
+  "empty-state": {
+    "body-results": "Níl aon torthaí le haghaidh ",
+    "body-favs": "Cuardaigh do sruthanna is fearr leat agus cliceáil ar an"
+  },
+  "storage": {
+    "body": "Is é an comhad folamh nó nach bhfuil sé mil raidió *.comhad rmf",
+    "title": "Luchtaigh Ceanáin"
+  },
+  "del-favs": {
+    "yes": "Tá",
+    "no": "Níl",
+    "body": "Ar mhaith leat gach stáisiún is fearr leat a scriosadh?",
+    "title": "Scrios Ceanáin"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

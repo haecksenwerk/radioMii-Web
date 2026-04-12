@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Mėgstamiausi",
+    "results": "Paieškos rezultatai",
+    "uuid": "Stotis iš \"Mii-Link",
+    "more": "Rodyti daugiau",
+    "exit-url": "Uždaryti Mii-Link"
+  },
+  "searchbar": {
+    "name": "Pavadinimas",
+    "genre": "Žanras",
+    "all": "Visi",
+    "hq": "HQ",
+    "select-country": "Visos šalys",
+    "placeholder-name": "Paieška pagal pavadinimą",
+    "placeholder-genre": "Paieška pagal žanrą"
+  },
+  "menu": {
+    "layout": "Išdėstymas",
+    "standard-view": "Standartinis vaizdas",
+    "light-on": "Įjunkite šviesą",
+    "light-off": "Išjunkite šviesą",
+    "restore-favs": "Mėgstamiausiųjų atkūrimas",
+    "backup-favs": "Atsarginės kopijos mėgstamiausios",
+    "export-m3u": "Eksportuoti M3U grojaraštį",
+    "export-xspf": "Eksportuoti XSPF grojaraštį",
+    "tips": "Patarimai ir triukai",
+    "about": "Apie RadioMii",
+    "language": "Kalba",
+    "open-menu-fav": "Mėgstamiausi",
+    "open-menu-plist": "Grojaraščiai",
+    "open-menu-settings": "Nustatymai",
+    "back": "Atgal",
+    "compact-view": "Kompaktiškas vaizdas",
+    "delete-favs": "Ištrinti visus mėgstamiausius"
+  },
+  "settings": {
+    "tooltips": "Rodyti įrankių užrašus",
+    "quality": "HQ min. bitų srautas",
+    "broken": "Paslėpti neveikiančias stotis"
+  },
+  "tooltip": {
+    "toggle-options": "Rodyti paieškos parinktis",
+    "search-mode": "Paieškos režimas",
+    "sort-votes": "Rūšiuoti pagal balsus",
+    "sort-clicks": "Rūšiuoti pagal atkūrimus per pastarąją parą",
+    "sort-country": "Rūšiuoti pagal šalį",
+    "sort-language": "Rūšiuoti paieškos rezultatus pagal kalbą",
+    "sort-bitrate": "Rūšiuoti radijo srautus pagal bitų srautą",
+    "sort-reverse": "Atvirkštinė rūšiavimo tvarka",
+    "select-country": "Tik pasirinktos šalies stotys",
+    "sort-name": "Rezultatų rūšiavimas pagal pavadinimą",
+    "hq": "Rodyti tik aukštos kokybės srautus"
+  },
+  "dropdown": {
+    "remove-card": "Pašalinti",
+    "website": "Apsilankykite svetainėje",
+    "dialog-footer": "Dalinkitės mėgstamomis stotimis per Mii-Link",
+    "move-card": "Judėti su ◀▶▲▼",
+    "link-uuid": "Sukurti Mii-Link"
+  },
+  "tips": {
+    "title": "Patarimai ir triukai",
+    "body": {
+      "p3": "Stoties surinktų \"Patinka\" paspaudimų skaičius",
+      "p5": "Išbandykite komandas paieškos lauke:",
+      "p6": "Šalies kodas, pavyzdžiui, <1>/de</1>, nurodo visas Vokietijos stotis",
+      "p8": "<1>/clicks</1> surenka dažniausiai grojamas stotis",
+      "p9": "Jei pasigendate mėgstamos radijo stoties, galite ją įtraukti į duomenų bazę:",
+      "p1": "Spartieji klavišai: <1>C</1> Kompaktiškas/standartinis vaizdas | <1>L</1> Šviesos įjungimas/išjungimas | <1>S</1> Rodyti/paslėpti paieškos parinktis ",
+      "p2": "| <1>Tarpas</1> Grojimas/Pauzė | <1>+</1> Garsumo didinimas | <1>-</1> Garsumo mažinimas",
+      "p4": "Peržiūrų skaičius per pastarąją parą",
+      "p7": "<1>/votes</1> surenka daugiausiai \"Patinka\" turinčias stotis"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Ištrinti mėgstamiausius",
+    "no": "Ne",
+    "yes": "Taip",
+    "body": "Ar norite ištrinti visas mėgstamas stotis?"
+  },
+  "storage": {
+    "title": "Įkelti mėgstamiausius",
+    "body": "Failas yra tuščias arba tai nėra RadioMii *.rmf failas"
+  },
+  "empty-state": {
+    "body-favs": "Ieškokite mėgstamų srautų ir spustelėkite",
+    "body-results": "Jokių rezultatų "
+  }
+}

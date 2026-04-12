@@ -1,0 +1,94 @@
+{
+  "grid": {
+    "empty-state": " ",
+    "favorites": "Kedvencek",
+    "results": "Keresési eredmények",
+    "uuid": "Mii-Link állomás",
+    "more": "Mutasson többet",
+    "exit-url": "Mii-Link bezárása"
+  },
+  "searchbar": {
+    "name": "Név",
+    "genre": "Műfaj",
+    "all": "Minden",
+    "hq": "HQ",
+    "select-country": "Minden ország",
+    "placeholder-name": "Keresés név szerint",
+    "placeholder-genre": "Keresés műfaj szerint"
+  },
+  "menu": {
+    "layout": "Elrendezés",
+    "standard-view": "Standard nézet",
+    "light-on": "Kapcsolja fel a fényt",
+    "light-off": "Kapcsolja ki a fényt",
+    "restore-favs": "Kedvencek visszaállítása",
+    "backup-favs": "Kedvencek mentése",
+    "delete-favs": "Összes kedvenc törlése",
+    "export-xspf": "XSPF lejátszási lista exportálása",
+    "language": "Nyelv",
+    "open-menu-fav": "Kedvencek",
+    "open-menu-settings": "Beállítások",
+    "back": "Vissza",
+    "tips": "Tippek és trükkök",
+    "about": "A RadioMii",
+    "open-menu-plist": "Lejátszáslisták",
+    "compact-view": "Kompakt nézet",
+    "export-m3u": "M3U lejátszási lista exportálása"
+  },
+  "tips": {
+    "body": {
+      "p4": "A lejátszások száma az elmúlt 24 órában",
+      "p1": "Hotkey-k: <1>C</1> Kompakt/szabványos nézet | <1>L</1> Világítás be/ki | <1>S</1> keresési lehetőségek megjelenítése/elrejtése ",
+      "p9": "Ha hiányolod a kedvenc rádióállomásodat, itt hozzáadhatod az adatbázishoz:",
+      "p8": "<1>/clicks</1> a legtöbbet játszott állomások letöltése",
+      "p7": "<1>/votes</1> a legtöbb 'Tetszik'-et kapott állomásokat keresi",
+      "p6": "Az olyan országkód, mint <1>/de</1> az összes német állomást felsorolja",
+      "p5": "Próbálja ki a parancsokat a keresőmezőben:",
+      "p3": "A \"Kedvelések\" száma egy állomáson",
+      "p2": "| <1>Űr</1> Lejátszás/szünet | <1>+</1> Hangerő felfelé | <1>-</1> Hangerő lefelé"
+    },
+    "title": "Tippek és trükkök"
+  },
+  "settings": {
+    "quality": "HQ min. bitráta",
+    "broken": "Törött állomások elrejtése",
+    "tooltips": "Tooltipek megjelenítése"
+  },
+  "tooltip": {
+    "toggle-options": "Keresési opciók megjelenítése",
+    "search-mode": "Keresési mód",
+    "sort-clicks": "Rendezés az elmúlt 24 óra lejátszásai szerint",
+    "sort-name": "Az eredmények név szerinti rendezése",
+    "sort-country": "Rendezés ország szerint",
+    "sort-bitrate": "Rádió streamek bitráta szerinti rendezése",
+    "sort-reverse": "Fordított sorrend",
+    "hq": "Csak jó minőségű streameket mutat",
+    "select-country": "Csak a kiválasztott ország állomásai",
+    "sort-votes": "Szavazatok szerinti rendezés",
+    "sort-language": "Keresés eredményeinek rendezése nyelv szerint"
+  },
+  "dropdown": {
+    "move-card": "Mozgás ◀▶▲▼▼",
+    "link-uuid": "Mii-Link készítése",
+    "website": "Látogasson el a weboldalra",
+    "remove-card": "Távolítsa el a",
+    "dialog-footer": "Kedvenc állomásainak megosztása Mii-Linken keresztül"
+  },
+  "empty-state": {
+    "body-results": "Nincs eredmény a ",
+    "body-favs": "Keresse meg kedvenc adatfolyamát, és kattintson a"
+  },
+  "storage": {
+    "body": "A fájl üres vagy nem RadioMii *.rmf fájl",
+    "title": "Favoritok betöltése"
+  },
+  "del-favs": {
+    "yes": "Igen",
+    "no": "Nem",
+    "body": "Szeretné törölni az összes kedvenc állomást?",
+    "title": "Kedvencek törlése"
+  },
+  "info": {
+    "title": "RadioMii"
+  }
+}

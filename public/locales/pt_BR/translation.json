@@ -1,0 +1,93 @@
+{
+  "grid": {
+    "results": "Resultados da busca",
+    "uuid": "Estação de Mii-Link",
+    "more": "Mostrar mais",
+    "exit-url": "Fechar Mii-Link",
+    "empty-state": " ",
+    "favorites": "Favoritos"
+  },
+  "searchbar": {
+    "name": "Nome",
+    "genre": "Gênero",
+    "all": "Todos",
+    "hq": "HQ",
+    "select-country": "Todos os países",
+    "placeholder-name": "Busca pelo nome",
+    "placeholder-genre": "Busca por gênero"
+  },
+  "menu": {
+    "standard-view": "Vista padrão",
+    "compact-view": "Vista Compacta",
+    "light-off": "Apague a luz",
+    "restore-favs": "Restaurar Favoritos",
+    "backup-favs": "Favoritos de Backup",
+    "delete-favs": "Apagar todos os Favoritos",
+    "export-m3u": "Lista de reprodução M3U para exportação",
+    "tips": "Dicas e truques",
+    "about": "Sobre rádioMii",
+    "language": "Idioma",
+    "open-menu-fav": "Favoritos",
+    "open-menu-plist": "Listas de reprodução",
+    "open-menu-settings": "Configurações",
+    "back": "Voltar",
+    "light-on": "Acenda a luz",
+    "export-xspf": "Lista de reprodução XSPF para exportação"
+  },
+  "settings": {
+    "quality": "HQ min. taxa de bits",
+    "tooltips": "Mostrar pontas de ferramentas",
+    "broken": "Ocultar estações quebradas"
+  },
+  "tooltip": {
+    "toggle-options": "Mostrar opções de busca",
+    "search-mode": "Modo de busca",
+    "sort-reverse": "Ordem inversa de classificação",
+    "sort-votes": "Ordenar por votos",
+    "sort-clicks": "Ordenar por playbacks nas últimas 24h",
+    "sort-country": "Ordenar por país",
+    "sort-language": "Ordenar os resultados da busca por idioma",
+    "sort-bitrate": "Ordenar os fluxos de rádio por bitrate",
+    "select-country": "Somente estações de um país escolhido",
+    "sort-name": "Ordenar os resultados pelo nome",
+    "hq": "Mostrar apenas fluxos de alta qualidade"
+  },
+  "dropdown": {
+    "move-card": "Mude com ◀▶▲▼",
+    "remove-card": "Remover",
+    "website": "Visite o site",
+    "link-uuid": "Criar Mii-Link",
+    "dialog-footer": "Compartilhe suas estações favoritas via Mii-Link"
+  },
+  "tips": {
+    "title": "Dicas e truques",
+    "body": {
+      "p4": "O número de playbacks nas últimas 24h",
+      "p5": "Tente os comandos no campo de busca:",
+      "p7": "<1>/votes</1> busca estações com o maior número de \"gostos\"",
+      "p8": "<1>/clicks</1> busca a maioria das estações jogadas",
+      "p9": "Se você sentir falta de sua estação de rádio favorita, você pode adicioná-la aqui ao banco de dados:",
+      "p1": "Teclas de atalho: <1>C</1> Vista Compacta/Padrão | <1>L</1> Luz ligada/desligada | <1>S</1> Mostrar/ocultar opções de busca ",
+      "p2": "<1>Espaço</1> Reproduzir/Pausa | <1>+</1> Volume para cima | <1>-</1> Volume para baixo",
+      "p3": "O número de 'Gosta' que uma estação tem",
+      "p6": "Um código de país como <1>/de</1> lista todas as estações alemãs"
+    }
+  },
+  "info": {
+    "title": "RadioMii"
+  },
+  "del-favs": {
+    "title": "Eliminar Favoritos",
+    "body": "Você quer apagar todas as estações favoritas?",
+    "no": "Não",
+    "yes": "Sim"
+  },
+  "storage": {
+    "title": "Carregar favoritos",
+    "body": "O arquivo está vazio ou não é um arquivo *.rmf do RadioMii"
+  },
+  "empty-state": {
+    "body-favs": "Pesquise seus fluxos favoritos e clique no botão",
+    "body-results": "Nenhum resultado para "
+  }
+}
