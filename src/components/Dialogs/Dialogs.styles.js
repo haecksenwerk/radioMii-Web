@@ -24,24 +24,15 @@ export const MiiIcon = styled.img`
   }
 `;
 
-export const KofiIcon = styled.img`
-  height: 22px;
-  display: block;
-  margin: 0 auto 0 6px;
-  transition: transform 0.1s ease-in-out;
-  filter: ${({ theme }) => theme.color.dialogs?.iconFilter || 'none'};
-
-  &:hover {
-    transform: scale(1.05);
-  }
-`;
-
 export const Icons = styled.div`
   display: flex;
   align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 0;
 
   .icon {
-    margin: 0 4px 4px 6px;
+    margin-top: -16px;
     font-size: 1.3rem;
     color: ${({ theme }) => theme.color.dialogs?.icon || 'var(--miiGrey)'};
     transition: color 0.25s;
@@ -84,5 +75,21 @@ export const Button = styled.button`
   &:hover {
     opacity: 0.9;
     border-color: var(--miiGreyMedium);
+  }
+`;
+
+export const IconRow = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: ${({ theme }) => theme.color.dialogs?.icon || 'var(--miiGrey)'};
+  transition: color 0.25s;
+
+  &:hover {
+    color: ${({ theme }) =>
+      theme.color.dialogs?.iconHover || 'var(--miiOrange)'};
   }
 `;

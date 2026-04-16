@@ -1,19 +1,19 @@
 import Modal from '../../components/Modal';
 import { useAppStore } from '../../store';
 import { removeItemFromStorage } from '../../utils/localStorage';
-import { IoLogoGithub } from 'react-icons/io5';
+import { IoLogoGithub, IoLogoAndroid } from 'react-icons/io5';
 import TagVotes from '../../images/tag-votes.png';
 import TagClicks from '../../images/tag-clicks.png';
 import { useTranslation, Trans } from 'react-i18next';
 import RadioSvg from '../../images/radio.svg';
-import KofiPng from '../../images/kofi.png';
+import { SiKofi } from 'react-icons/si';
 import gitInfo from '../../gitInfo.json';
 import { IoGitCommitOutline, IoLockClosedSharp } from 'react-icons/io5';
 
 import {
   MiiIcon,
-  KofiIcon,
   Icons,
+  IconRow,
   Button,
   ButtonWrapper,
 } from './Dialogs.styles';
@@ -43,6 +43,7 @@ export default function Dialogs() {
       >
         <>{msgDialog.content}</>
       </Modal>
+
       <Modal
         active={showDialog.tips}
         hideModal={() => setShowDialog({ tips: false })}
@@ -120,6 +121,7 @@ export default function Dialogs() {
           </a>
         </p>
       </Modal>
+
       <Modal
         active={showDialog.info}
         hideModal={() => setShowDialog({ info: false })}
@@ -133,16 +135,32 @@ export default function Dialogs() {
       >
         <MiiIcon src={RadioSvg} alt='mii-ico' />
         <Icons>
-          <KofiIcon
-            src={KofiPng}
+          <IconRow
             onClick={() => {
               window.open(
-                'https://ko-fi.com/haeckse',
+                'https://ko-fi.com/haecksenwerk',
                 '_blank',
                 'noopener,noreferrer',
               );
             }}
-          />
+          >
+            <SiKofi size={20} />
+            Buy me a coffee
+          </IconRow>
+
+          <IconRow
+            onClick={() => {
+              window.open(
+                'https://github.com/haecksenwerk/radioMii-Android/releases',
+                '_blank',
+                'noopener,noreferrer',
+              );
+            }}
+          >
+            <IoLogoAndroid size={20} />
+            Get it on Android
+          </IconRow>
+
           <IoLogoGithub
             className='icon'
             onClick={() => {
