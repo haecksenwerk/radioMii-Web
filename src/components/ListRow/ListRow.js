@@ -117,7 +117,7 @@ export default memo(
                 viewMode={viewMode}
                 VIEW={VIEW}
                 tags={tags}
-                maxTags={8}
+                maxTags={10}
               />
             </Footer>
           )}

@@ -9,6 +9,7 @@ import { StationMenu, ToggleHeart, StationLabels } from '../';
 import {
   Wrapper,
   Content,
+  Body,
   IconStation,
   IconPlay,
   NameStation,
@@ -122,18 +123,25 @@ export default memo(
             )}
           </HeartWrap>
           {showImg ? (
-            <IconStation
-              $compactCard={compactCard}
-              src={props.station.favicon}
-              alt='station-image'
-              onError={() => setShowImg(false)}
-            />
+            <Body>
+              <IconStation
+                $compactCard={compactCard}
+                src={props.station.favicon}
+                alt='station-image'
+                onError={() => setShowImg(false)}
+              />
+              <NameStation $compactCard={compactCard}>
+                {getPlainName(name)}
+              </NameStation>
+            </Body>
           ) : (
-            <IconStation src={RadioSvg} alt='station-image' />
+            <Body>
+              <IconStation src={RadioSvg} alt='station-image' />
+              <NameStation $compactCard={compactCard}>
+                {getPlainName(name)}
+              </NameStation>
+            </Body>
           )}
-          <NameStation $compactCard={compactCard}>
-            {getPlainName(name)}
-          </NameStation>
           {!compactCard && (
             <Footer $compactCard={compactCard}>
               <StationLabels

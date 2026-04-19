@@ -7,18 +7,8 @@ import {
 } from 'react-icons/io5';
 import { isHttps } from '../../utils/system';
 import { compactFormatter } from '../../utils/string';
-import { Label } from '../shared/shared.styles';
+import { StationLabel } from './StationLabels.styles';
 
-/**
- * Renders the metadata label strip for a station (votes, country code, https, codec, tags).
- *
- * Props:
- *   station   — station data object
- *   viewMode  — current VIEW mode value
- *   VIEW      — VIEW constants object
- *   tags      — pre-computed tags array (avoids recomputing in parent + here)
- *   maxTags   — max number of genre tags to render (default: unlimited)
- */
 function StationLabels({ station, viewMode, VIEW, tags, maxTags }) {
   const visibleTags = maxTags !== undefined ? tags.slice(0, maxTags) : tags;
 
@@ -29,32 +19,32 @@ function StationLabels({ station, viewMode, VIEW, tags, maxTags }) {
     <>
       {showStats && (
         <>
-          <Label color='cornflowerblue'>
+          <StationLabel color='cornflowerblue'>
             <IoThumbsUpSharp />
-            {'\u00A0'}
+            {' '}
             {compactFormatter.format(station.votes)}
-          </Label>
-          <Label color='#fa7d18'>
+          </StationLabel>
+          <StationLabel color='#fa7d18'>
             <IoPlaySharp />
             {compactFormatter.format(station.clickcount)}
-          </Label>
+          </StationLabel>
         </>
       )}
       {station.countrycode && (
-        <Label color='#F08787'>{station.countrycode}</Label>
+        <StationLabel color='#F08787'>{station.countrycode}</StationLabel>
       )}
       {isHttps(station.url) && (
-        <Label color='mediumseagreen'>
+        <StationLabel color='mediumseagreen'>
           <IoLockClosedSharp />
-        </Label>
+        </StationLabel>
       )}
       {station.codec && (
-        <Label color='darkorchid'>
+        <StationLabel color='darkorchid'>
           {station.codec + ' ' + station.bitrate}
-        </Label>
+        </StationLabel>
       )}
       {visibleTags.map((tag, idx) => (
-        <Label key={idx}>{tag}</Label>
+        <StationLabel key={idx}>{tag}</StationLabel>
       ))}
     </>
   );

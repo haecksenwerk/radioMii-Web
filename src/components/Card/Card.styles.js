@@ -21,6 +21,7 @@ export const Wrapper = styled.div`
   animation-fill-mode: both;
   animation-timing-function: ease-out;
   transform-origin: 50% 10%;
+  overflow: hidden;
 
   &:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
@@ -32,12 +33,11 @@ export const Wrapper = styled.div`
 `;
 
 export const Content = styled.div`
+  position: relative;
   height: 100%;
   width: 100%;
   display: flex;
-  white-space: nowrap;
   flex-direction: column;
-  justify-content: space-around;
   align-items: center;
   padding: 0 12px;
   font-size: ${(props) => (props.$compactCard ? '0.75rem' : '0.85rem')};
@@ -47,6 +47,17 @@ export const Content = styled.div`
   @media (max-width: ${({ theme }) => theme.break.horiz.sm}) {
     font-size: ${(props) => (props.$compactCard ? '0.55rem' : '0.65rem')};
   }
+`;
+
+export const Body = styled.div`
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 8px 0 20%;
 `;
 
 export const IconPlay = styled.div`
@@ -83,18 +94,15 @@ export const NameStation = styled.div`
 `;
 
 export const Footer = styled.div`
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  right: 12px;
   display: inline-flex;
   flex-wrap: wrap;
   align-items: flex-start;
   align-content: flex-start;
   gap: 4px;
-  width: 100%;
-  max-height: 50px;
-  overflow: hidden;
-
-  @media (max-width: ${({ theme }) => theme.break.horiz.sm}) {
-    max-height: 44px;
-  }
 `;
 
 export const IconStation = styled.img`
