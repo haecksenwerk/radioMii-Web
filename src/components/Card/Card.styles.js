@@ -55,9 +55,9 @@ export const Body = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 8px;
+  gap: 12px;
   width: 100%;
-  padding: 8px 0 20%;
+  padding: ${(props) => (props.$compactCard ? '8px 0' : '8px 0 20%')};
 `;
 
 export const IconPlay = styled.div`

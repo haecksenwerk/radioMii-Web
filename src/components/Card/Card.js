@@ -123,7 +123,7 @@ export default memo(
             )}
           </HeartWrap>
           {showImg ? (
-            <Body>
+            <Body $compactCard={compactCard}>
               <IconStation
                 $compactCard={compactCard}
                 src={props.station.favicon}
@@ -135,7 +135,7 @@ export default memo(
               </NameStation>
             </Body>
           ) : (
-            <Body>
+            <Body $compactCard={compactCard}>
               <IconStation src={RadioSvg} alt='station-image' />
               <NameStation $compactCard={compactCard}>
                 {getPlainName(name)}
