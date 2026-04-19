@@ -56,6 +56,7 @@ export const ListItem = styled.li`
   list-style: none;
   cursor: pointer;
   font-size: 0.9rem;
+  white-space: nowrap;
   pointer-events: ${(props) => (props.$enabled ? 'auto' : 'none')};
   color: ${(props) =>
     props.$enabled
