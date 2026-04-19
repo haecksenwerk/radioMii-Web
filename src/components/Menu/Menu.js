@@ -6,13 +6,13 @@ import {
 } from '../../utils/fileStorage';
 import { useAppStore } from '../../store';
 import { useSettingsStore } from '../../store';
-import { getItemFromStorage } from '../../utils/localStorage';
-import { SegControl, LangSelect, ToggleSwitch } from '../';
+import { getItemFromStorage, storeItem } from '../../utils/localStorage';
+import { SegControl, LangSelect, ToggleSwitch, Tooltip } from '../';
 import { useTranslation } from 'react-i18next';
 import { RiPlayListFill } from 'react-icons/ri';
 import { MdArrowBackIosNew, MdArrowForwardIos } from 'react-icons/md';
 import { BsGrid, BsSquare, BsListUl } from 'react-icons/bs';
-import { IoHeartDislikeOutline } from 'react-icons/io5';
+import { IoHeartDislikeOutline, IoLogoAndroid } from 'react-icons/io5';
 
 import {
   FiMoon,
@@ -31,6 +31,7 @@ import {
   MenuItem,
   Separator,
   ItemWrapper,
+  AndroidIconWrapper,
 } from './Menu.styles';
 
 export default function Menu({ open, setOpen }) {
@@ -40,6 +41,9 @@ export default function Menu({ open, setOpen }) {
   const [menuFavsOpen, setMenuFavsOpen] = useState(false);
   const [menuPlistOpen, setMenuPlistOpen] = useState(false);
   const [menuSettingsOpen, setMenuSettingsOpen] = useState(false);
+  const [androidClicked, setAndroidClicked] = useState(
+    () => getItemFromStorage('androidLinkClicked') === true,
+  );
 
   const setMsgDialog = useAppStore((state) => state.setMsgDialog);
   const setShowDialog = useAppStore((state) => state.setShowDialog);
@@ -61,6 +65,16 @@ export default function Menu({ open, setOpen }) {
   const system = useAppStore((state) => state.system);
 
   const { t } = useTranslation();
+
+  function handleAndroidClick() {
+    storeItem('androidLinkClicked', true);
+    setAndroidClicked(true);
+    window.open(
+      'https://github.com/haecksenwerk/radioMii-Android',
+      '_blank',
+      'noopener,noreferrer',
+    );
+  }
 
   if (!open && menuFavsOpen) setMenuFavsOpen(false);
   if (!open && menuPlistOpen) setMenuPlistOpen(false);
@@ -173,6 +187,20 @@ export default function Menu({ open, setOpen }) {
           <FiInfo className='menu-icon' />
           {t('menu.about')}
         </MenuItem>
+        <Tooltip
+          content='Get radioMii for Android'
+          direction='right'
+          bgColor='#3ddc84'
+          fgColor='#000'
+        >
+          <AndroidIconWrapper
+            $open={open}
+            $visible={!androidClicked}
+            onClick={handleAndroidClick}
+          >
+            <IoLogoAndroid />
+          </AndroidIconWrapper>
+        </Tooltip>
       </StyledMenu>
       {/* ### Submenu Favorites */}
       <StyledSubMenu open={menuFavsOpen}>

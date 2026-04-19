@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { css, keyframes } from 'styled-components';
 
 export const StyledMenu = styled.div`
   display: flex;
@@ -56,6 +56,51 @@ export const ItemWrapper = styled.div`
     color: ${({ theme }) => theme.color.menu.item};
     font-size: 0.9rem;
     padding: 6px;
+  }
+`;
+
+const slideInLeft = keyframes`
+  from {
+    transform: translateX(-80px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+`;
+
+const pulse = keyframes`
+  0%   { filter: drop-shadow(0 0 0px #3ddc84); }
+  50%  { filter: drop-shadow(0 0 8px #3ddc84); }
+  100% { filter: drop-shadow(0 0 0px #3ddc84); }
+`;
+
+export const AndroidIconWrapper = styled.div`
+  margin-top: 80px;
+  margin-left: -2rem;
+  align-self: flex-start;
+  cursor: pointer;
+  color: #3ddc84;
+  opacity: 0;
+  display: ${({ $visible }) => ($visible ? 'flex' : 'none')};
+
+  ${({ $open }) =>
+    $open &&
+    css`
+      animation:
+        ${slideInLeft} 0.3s ease-out 0.25s forwards,
+        ${pulse} 0.8s ease-in-out 0.6s 2;
+    `}
+
+  svg {
+    width: 50px;
+    height: 50px;
+    transform: rotate(90deg);
+  }
+
+  &:hover {
+    color: #6feaab;
   }
 `;
 
