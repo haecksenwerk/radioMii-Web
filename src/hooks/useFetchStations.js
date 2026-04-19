@@ -60,6 +60,7 @@ export function useFetchStations() {
       useAppStore.setState((s) => {
         s.stations = { results: [] };
       });
+      setViewMode(VIEW.EMPTY_STATE_FAVS);
     }
 
     useAppStore.setState((s) => {
