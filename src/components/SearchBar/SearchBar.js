@@ -65,8 +65,16 @@ export default function SearchBar() {
   const [reverseAmount, setReverseAmount] = useState(
     searchOptions.orderIndex === 0 ||
       searchOptions.orderIndex === 1 ||
-      searchOptions.orderIndex === 5
+      searchOptions.orderIndex === 5,
   );
+
+  const [sortCountryByCount, setSortCountryByCount] = useState(false);
+
+  const sortedCountries = sortCountryByCount
+    ? [...countries].sort(
+        (a, b) => Number(b.stationcount) - Number(a.stationcount),
+      )
+    : countries;
 
   useEffect(() => {
     if (initial.current) {
@@ -310,30 +318,45 @@ export default function SearchBar() {
             </Tooltip>
           </div>
           <div className='ctrl_country'>
-            <Tooltip
-              className='ctrl_country'
-              content={t('tooltip.select-country')}
-              direction='top'
-              margin='30px'
-              hide={hideTooltip}
-            >
-              <SelectCountry
-                id='countrySel'
-                onChange={selectCountryChange}
-                onClick={() => setHideTooltip(true)}
-                onMouseLeave={() => setHideTooltip(false)}
+            <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+              <Tooltip
+                content={t('tooltip.select-country')}
+                direction='top'
+                margin='30px'
+                hide={hideTooltip}
               >
-                <option value=''>{t('searchbar.select-country')}</option>
-                {countries.length > 0 &&
-                  countries.map((item, i) => {
-                    return (
-                      <option key={i} value={item.id}>
-                        {item.name}
-                      </option>
-                    );
-                  })}
-              </SelectCountry>
-            </Tooltip>
+                <SelectCountry
+                  id='countrySel'
+                  onChange={selectCountryChange}
+                  onClick={() => setHideTooltip(true)}
+                  onMouseLeave={() => setHideTooltip(false)}
+                >
+                  <option value=''>{t('searchbar.select-country')}</option>
+                  {sortedCountries.length > 0 &&
+                    sortedCountries.map((item, i) => {
+                      return (
+                        <option key={i} value={item.id}>
+                          {item.name} ({item.stationcount})
+                        </option>
+                      );
+                    })}
+                </SelectCountry>
+              </Tooltip>
+              <Tooltip
+                content={t('tooltip.sort-country-count')}
+                direction='top'
+                margin='30px'
+              >
+                <ToggleButton
+                  IconOutline={BsSortAlphaDown}
+                  IconFilled={BsSortDown}
+                  size={20}
+                  checked={sortCountryByCount}
+                  cbClicked={() => setSortCountryByCount((prev) => !prev)}
+                  highlight={false}
+                />
+              </Tooltip>
+            </div>
           </div>
         </SettingsWrapper>
       </IconContext.Provider>

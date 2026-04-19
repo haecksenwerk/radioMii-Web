@@ -6,6 +6,7 @@ export default function ToggleButton({
   size = 16,
   checked,
   cbClicked,
+  highlight = true,
 }) {
   return (
     <Wrapper
@@ -14,7 +15,7 @@ export default function ToggleButton({
         cbClicked(!checked);
       }}
     >
-      <ButtonChecked checked={checked}>
+      <ButtonChecked checked={checked} $highlight={highlight}>
         <IconFilled size={size} />
       </ButtonChecked>
       <ButtonUnchecked checked={checked}>

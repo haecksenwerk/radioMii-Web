@@ -20,7 +20,8 @@ export const ButtonUnchecked = styled.div`
 
 export const ButtonChecked = styled.div`
   position: absolute;
-  color: var(--miiOrange);
+  color: ${(props) =>
+    props.$highlight ? 'var(--miiOrange)' : 'var(--miiGrey)'};
   visibility: ${(props) => (props.checked ? 'visible' : 'hidden')};
 
   &:hover {

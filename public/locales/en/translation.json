@@ -51,7 +51,8 @@
     "sort-bitrate": "Sort radio streams by bitrate",
     "sort-reverse": "Reverse sort order",
     "hq": "Show only high quality streams",
-    "select-country": "Only stations from a choosen country"
+    "select-country": "Only stations from a choosen country",
+    "sort-country-count": "Sort countries alphabetically / by station count"
   },
   "dropdown": {
     "move-card": "Move with ◀▶▲▼",
