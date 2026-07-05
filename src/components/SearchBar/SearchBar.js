@@ -335,7 +335,7 @@ export default function SearchBar() {
                   {sortedCountries.length > 0 &&
                     sortedCountries.map((item, i) => {
                       return (
-                        <option key={i} value={item.id}>
+                        <option key={i} value={item.name}>
                           {item.name} ({item.stationcount})
                         </option>
                       );
