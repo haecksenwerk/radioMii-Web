@@ -495,7 +495,7 @@ const settingsStore = persist(
         state.modeList = Boolean(list);
       }),
 
-    light: true,
+    light: !window.matchMedia('(prefers-color-scheme: dark)'),
     toggleLight: () =>
       set((state) => {
         state.light = !state.light;
